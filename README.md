@@ -35,8 +35,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=radical" />&nbsp
 </div>
 
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact)
 
-<br>
 
 ![5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=radical)
