@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20Saeha%20Yang&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50" />
 </div>
 
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+
 <!--내용 부분-->
 <h3 align="center"> 😊아무거나😊 </h3>
 <div align="center">
@@ -37,7 +40,8 @@ Here are some ideas to get you started:
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact)
+---
 
 
-![5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=radical)
+
+
