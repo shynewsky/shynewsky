@@ -15,14 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--타이틀 부분-->>
+<div align="center">
+  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20Saeha%20Yang&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50)" />
+</div>
+
+<!--내용 부분-->
+<h3 align="center"> 😊아무거나😊 </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
+</div>
+
+
+
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20Saeha%20Yang&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50)
 
-## 😊아무거나😊
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />
+
 
 
 
