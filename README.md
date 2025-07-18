@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-
-
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 
 
 
