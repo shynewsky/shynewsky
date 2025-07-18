@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <br>
 
+---
+
 <h3> 언어 </h3>
 <div>
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
