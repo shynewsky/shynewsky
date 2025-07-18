@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 😊그래프2😊 </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" />&nbsp
 </div>
 
 
