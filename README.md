@@ -20,11 +20,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20Saeha%20Yang&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50" />
 </div>
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-
 <!--내용 부분-->
-<h3 align="center"> 😊아무거나😊 </h3>
+<h3 align="center"> 😊언어😊 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
@@ -32,16 +29,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"> 😊아무거나😊 </h3>
+<h3 align="center"> 😊그래프😊 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=radical" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default" />&nbsp
 </div>
 
 <br>
 
 ---
-
-
-
-
