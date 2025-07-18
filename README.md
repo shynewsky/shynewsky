@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![1's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky)](https://github.com/anuraghazra/github-readme-stats)
+[![1's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky)](https://github.com/shynewsky/github-readme-stats)
 
 ![2's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky&hide=contribs,prs)
 
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ![7's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&bg_color=00000000)
 
-[![8's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![8's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shynewsky/github-readme-stats#gh-dark-mode-only)
 
-[![9's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![9's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/shynewsky/github-readme-stats#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact)
