@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--내용 부분-->
-<h3 align="center"> 😊언어😊 </h3>
 <h3 align="center"> 😊그래프😊 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact" />&nbsp
@@ -30,6 +29,23 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3 align="center"> 😊그래프2😊 </h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" />&nbsp
+</div>
+
+
+
+<a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
+
+<a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a>
+
+
+
+<br>
+
+<h3 align="center"> 😊언어😊 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
@@ -37,6 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3 align="center"> 😊연😊 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/naver-20232a.svg?style=for-the-badge&logo=naver&logoColor=03C75A" />&nbsp
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
@@ -45,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 
