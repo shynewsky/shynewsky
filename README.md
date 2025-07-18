@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
+<a href="https://github.com/shynewsky"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
 
-<a href="https://github.com/JeongMinIsBest"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/shynewsky"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a>
 
 
 
