@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center"> 언어 </h3>
-<div align="center">
+<h3> 언어 </h3>
+<div>
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
 </div>
 
 <br>
 
-<h3 align="center"> 연락 </h3>
-<div align="center">
+<h3> 연락 </h3>
+<div>
   <img src="https://img.shields.io/badge/naver-20232a.svg?style=for-the-badge&logo=naver&logoColor=03C75A" />&nbsp
   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=c++&logoColor=A8B9CC" />&nbsp
 </div>
