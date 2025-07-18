@@ -21,27 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 <!--내용 부분-->
-<h3 align="center"> 😊그래프😊 </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center"> 😊그래프2😊 </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=889ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&hide_border=true&bg_color=889ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
 </div>
-
-
-
-https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=889ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" alt="JeongMin's GitHub Status" /></a>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&hide_border=true&bg_color=889ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" /></a>
-
-
 
 <br>
 
