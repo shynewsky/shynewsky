@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20Saeha%20Yang&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
