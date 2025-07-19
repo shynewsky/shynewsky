@@ -39,7 +39,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=879ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&hide_border=true&bg_color=879ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=normal&hide_border=true&bg_color=879ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
 </div>
 
 <!--깃허드 등급
@@ -55,7 +55,7 @@ text_color=fff -- 본문 글자 색상
 <!--많이 사용하는 언어
 /top-langs/ -- 많이 사용하는 언어
 username=shynewsky -- 참고할 계정
-layout=compact -- 
+layout=compact -- normal, compact, donut, donut-vertical, pie
 hide_border=true -- 테두리 숨기기
 bg_color=879ee8,aa9fdb,cc9fce -- 배경 색상(여러개 넣으면 순서대로 그라데이션)
 title_color=fff -- 제목 글자 색상
