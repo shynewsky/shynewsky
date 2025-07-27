@@ -38,6 +38,15 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 -->
 
 <div align="center">
+  <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
+</div>
+
+
+
+
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&include_all_commits=true&hide_border=true&bg_color=879ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&hide_border=true&bg_color=879ee8,aa9fdb,cc9fce&title_color=fff&text_color=fff" />&nbsp
 </div>
