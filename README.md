@@ -36,3 +36,13 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Welcome%20to%20My%20Github&desc=I'm%20XYZ%20(zeize)&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=25&descSize=40&descAlignY=50" />
 </div>
+
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shynewsky)](https://solved.ac/shynewsky/)
+</div>
+
+
+
+
+
+
