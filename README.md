@@ -38,7 +38,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 </div>
 
 <div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shynewsky)](https://solved.ac/shynewsky/)
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shynewsky@naver.com)
 </div>
 
 
