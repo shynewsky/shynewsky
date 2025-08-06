@@ -38,7 +38,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 </div>
 
 <div>
-  <img src="https://topsolved.mayonedev.com/api/boj?handle=mayone6063&row=25&base_color=default">
+  <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=default">
 </div>
 
 
