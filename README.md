@@ -34,6 +34,6 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=20&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=20" />
 </div>
 
