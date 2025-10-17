@@ -1,0 +1,1 @@
+# 행렬 속 원소개수 ⭐sum(row.count('R') for row in matrix)⭐

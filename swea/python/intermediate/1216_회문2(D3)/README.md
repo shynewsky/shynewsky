@@ -1,0 +1,1 @@
+# ⭐matrix[i][j:j+k] == matrix[i][j:j+k][::-1]⭐zip(*matrix)⭐
