@@ -38,7 +38,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header" />
 </div>
 
-<div style="text-align:center; font-family:맑은 고딕; font-size:40px">
+<div style="text-align:center; font-family:맑은 고딕; font-size:100px">
   SAEHA YANG's <strong>PORTFOLIO</strong>
 </div>
 
