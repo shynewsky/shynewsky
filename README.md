@@ -34,16 +34,25 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header" />
+  <img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header" />
 </div>
 
-<br>
-<br>
-<br>
+<div style="text-align:center; font-family:맑은 고딕; font-size:40px">
+  SAEHA YANG's <strong>PORTFOLIO</strong>
+</div>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=header"
+    style="transform: rotate(180deg);"
+  />
+</div>
 
 <div align="center">
   <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=default">
 </div>
+
 
 
 
