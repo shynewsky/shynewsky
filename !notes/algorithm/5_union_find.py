@@ -51,7 +51,7 @@ def find_set2(x):
 
 
 
-def union1(x, y):
+def union_set1(x, y):
     rep_x = find_set1(x) # 대표자 검색
     rep_y = find_set1(y)
     if rep_x == rep_y:  # 대표자가 같으면 같은 집합 => 합치지 않음
@@ -60,7 +60,7 @@ def union1(x, y):
     parents[rep_x] = rep_y
 
 # 대표자 값이 작은쪽으로 연결하기
-def union2(x, y):
+def union_set2(x, y):
     rep_x = find_set2(x)
     rep_y = find_set2(y)
     if rep_x == rep_y:
@@ -72,7 +72,7 @@ def union2(x, y):
         parents[rep_x] = rep_y  # 여기
 
 # 트리가 큰 쪽으로 연결하기
-def union3(x, y):
+def union_set3(x, y):
     rep_x = find_set2(x)
     rep_y = find_set2(y)
     if rep_x == rep_y:
@@ -89,4 +89,4 @@ def union3(x, y):
 # ---------------------------------------------------------------------
 
 parents, ranks = make_set2(6)
-union3(2, 4)
+union_set3(2, 4)
