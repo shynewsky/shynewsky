@@ -1,19 +1,6 @@
-'''
-- heapq 활용한 BFS 사용
-- 인접리스트/인접행렬 생성
-'''
-
+import sys
+sys.stdin = open('input.txt')
 from heapq import heappop, heappush
-
-# 입력 --------------------------------------------------------------
-
-V, E = map(int, input().split())
-
-adj_mat = [[0] * (V+1) for _ in range(V+1)] # 인접행렬
-for _ in range(E):
-    n1, n2, w = map(int, input().split())
-    adj_mat[n1][n2] = w
-    adj_mat[n2][n1] = w
 
 # 함수 --------------------------------------------------------------
 
@@ -39,12 +26,24 @@ def prim(start_node):
 
     return
 
-# 코드 --------------------------------------------------------------
+# 입력 --------------------------------------------------------------
 
-min_weight = 0 # 가중치의 합
-start_node = 0
-prim(start_node)
+T = int(input())
+for t in range(1, T+1):
+    V, E = map(int, input().split())
 
-# 출력 --------------------------------------------------------------
+    adj_mat = [[0] * (V+1) for _ in range(V+1)] # 인접행렬
+    for _ in range(E):
+        n1, n2, w = map(int, input().split())
+        adj_mat[n1][n2] = w
+        adj_mat[n2][n1] = w
 
-print(min_weight)
+    # 코드 --------------------------------------------------------------
+
+    min_weight = 0 # 가중치의 합
+    start_node = 0
+    prim(start_node)
+
+    # 출력 --------------------------------------------------------------
+
+    print(f'#{t}', min_weight)
