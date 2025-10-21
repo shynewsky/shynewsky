@@ -90,3 +90,4 @@ def union_set3(x, y):
 
 parents, ranks = make_set2(6)
 union_set3(2, 4)
+print(parents)

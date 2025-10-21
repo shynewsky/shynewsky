@@ -129,3 +129,38 @@ while q:
 
 print(mat[X-1][Y-1])
 ```
+
+<hr>
+
+## 4️⃣ 새로운 발상 (ㄱㄷㅇ님)
+
+- 목표 지점으로부터 가장 가까운 바이러스 종류가, 결국엔 그 좌표를 차지하게 된다
+- 모든 바이러스와의 맨해튼 거리를 계산하여, 바이러스 전파까지 기다리지 않아도 된다
+
+```python
+N, K = map(int, input().split())
+board = []
+virus_locations = []
+
+for i in range(N):
+    row = list(map(int, input().split()))
+    board.append(row)
+    for j in range(N):
+        if board[i][j] != 0:
+            virus_locations.append((board[i][j], i, j))
+
+S, X, Y = map(int, input().split())
+
+min_dist = 3 * N
+result = 0
+virus_locations.sort(reverse=True)
+for i in range(len(virus_locations)):
+    distance = abs(X - 1 - virus_locations[i][1]) + abs(Y - 1 - virus_locations[i][2])
+    if min_dist >= distance:
+        min_dist = distance
+        result = virus_locations[i][0]
+
+if min_dist > S:
+    result = 0
+```
+
