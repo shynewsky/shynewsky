@@ -3,6 +3,10 @@
 - 음의 가중치 가능
 - 동적프로그래밍(DP)
 '''
+'''
+플로이드 워셜은 O(V^3)이어서
+파이썬으로 하면 웬만하면 시간초과 걸린다
+'''
 
 import sys
 sys.stdin = open('input.txt')
@@ -30,14 +34,14 @@ def floyd_warshall():
     distances = [row[:] for row in adj_mat] # 깊은 복사
 
     for k in range(1, V+1):
-        for i in range(1, V+1):
-            for j in range(1, V+1):
+        for x in range(1, V+1):
+            for y in range(1, V+1):
                 # INF + 값 = INF 이긴 하지만, 불필요한 연산 줄이기
-                if distances[i][k] == INF or distances[k][j] == INF: 
+                if distances[x][k] == INF or distances[k][y] == INF:
                     continue
                 # 거쳐가는 경로가 더 짧으면 업데이트
-                if distances[i][k] + distances[k][j] < distances[i][j]:
-                    distances[i][j] = distances[i][k] + distances[k][j]
+                if distances[x][k] + distances[k][y] < distances[x][y]:
+                    distances[x][j] = distances[x][k] + distances[k][y]
 
     return distances
 
