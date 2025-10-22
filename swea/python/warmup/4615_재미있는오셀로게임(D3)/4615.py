@@ -53,48 +53,72 @@ for t in range(1, T+1):
         # 2//i 를 하면 i=1 일때 2, i=2일때 1이 된다
         ni = 2//i
 
-        # CHATGPT ----------------------------------------------------------
+        for nx, ny in dict[i]: # 같은 색상의 다른 돌 좌표 가져오기
 
-        # 8방향을 현재 놓은 자리에서 직접 검사: 인접칸이 상대색인지 먼저 확인
-        for dx, dy in delta:
-            cx, cy = x + dx, y + dy
-            to_flip = []
+            # 방향벡터 구하기
+            dx, dy = nx-x, ny-y
 
-            # 첫 칸이 보드 밖이거나 상대색이 아니면 해당 방향 무효
-            if not (0 <= cx < N and 0 <= cy < N):
+            if dx != 0 :
+                d = abs(dx) # 음수대비
+                dx, dy = dx/d, dy/d
+            elif dy != 0 : # dx == 0
+                d = abs(dy) # 음수대비
+                dx, dy = dx/d, dy/d
+
+            # 8방향이 아니면 스킵
+            if (dx, dy) not in delta:
                 continue
-            if mat[cx][cy] != ni:
-                continue
 
-            # 상대색이 연속되는 동안 모아두고 진행
-            while 0 <= cx < N and 0 <= cy < N and mat[cx][cy] == ni:
-                to_flip.append((cx, cy))
+            # 나누면서 float 가 되어서 다시 int 로 바꿔야 인덱스로 동작할 수 있다
+            dx, dy = int(dx), int(dy)
+
+            # 현재위치 좌표
+            cx, cy = x, y
+
+            # 가는길에 0이 있는지 확인하기
+            isZero = False
+            while cx+dx != nx or cy+dy != ny:
+
+                # 현재 좌표이동
                 cx += dx
                 cy += dy
 
-            # 범위를 벗어나거나 0을 만나면 무효
-            if not (0 <= cx < N and 0 <= cy < N):
+                if mat[cx][cy] == 0:
+                    isZero = True
+                    break
+
+            if isZero: # 하나라도 있으면 다음 타겟으로 변경
                 continue
-            if mat[cx][cy] != i:  # 내 돌로 닫히지 않으면 무효
-                continue
 
-            # 여기까지 왔다면 사이의 상대색만 뒤집기
-            for fx, fy in to_flip:
-                mat[fx][fy] = i
-                # dict 갱신 (방어적 제거)
-                if [fx, fy] in dict[ni]:
-                    dict[ni].remove([fx, fy])
-                new_stone.append([fx, fy])
+            # 현재위치 좌표(다시 받아오기)
+            cx, cy = x, y
 
-                # 개수 갱신
-                if i == 1:
-                    cnt_1 += 1
-                    cnt_2 -= 1
-                else:
-                    cnt_1 -= 1
-                    cnt_2 += 1
+            # 같은 색상의 다른 돌 좌표에 도달할때까지 이동
+            while cx+dx != nx or cy+dy != ny:
 
-        # CHATGPT ----------------------------------------------------------
+                # 현재 좌표이동
+                cx += dx
+                cy += dy
+
+                if mat[cx][cy] == i:
+                    break
+
+                # 색상 다르면 바꾸기
+                if mat[cx][cy] == ni: # 색상이 다르면
+                    mat[cx][cy] = i   # 색상 반전
+                    dict[ni].remove([cx, cy])   # 반대 색상에서 제거
+                    new_stone.append([cx, cy])  # 바꾼 색상에 추가
+
+                    # 개수 조절
+                    if i == 1:
+                        cnt_1 += 1
+                        cnt_2 -= 1
+                    else:
+                        cnt_1 -= 1
+                        cnt_2 += 1
+
+            # 다음 이동을 위해 좌표 원위치
+            cx, cy = x, y
 
         # 새로 추가된 돌 위치 추가
         dict[i] += new_stone
