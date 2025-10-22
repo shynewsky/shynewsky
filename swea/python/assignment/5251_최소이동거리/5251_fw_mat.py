@@ -1,11 +1,3 @@
-'''
-- 시작정점에서 모든정점으로의 최단거리 구하기
-- 음의 가중치 가능
-- 동적프로그래밍(DP)
-
-- 간선리스트 사용(인접리스트 아님)
-'''
-
 import sys
 sys.stdin = open('input.txt')
 INF = float('inf')

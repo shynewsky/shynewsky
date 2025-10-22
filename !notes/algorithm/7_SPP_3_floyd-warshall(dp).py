@@ -13,6 +13,7 @@ INF = float('inf') # 최댓값 설정 : 직접 손으로 구해서 넣는 방법
 
 V, E = map(int, input().split())
 
+# 인접행렬 ㅡ [과제] 인접리스트
 adj_mat = [[INF] * (V+1) for _ in range(V+1)]
 for i in range(1, V+1): # 대각선(자기 자신)은 0
     adj_mat[i][i] = 0
