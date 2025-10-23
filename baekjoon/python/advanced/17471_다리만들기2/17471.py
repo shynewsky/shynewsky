@@ -114,11 +114,13 @@ def kruksal():
 
                         # BFS로 합치기만 하고 find_set 을 하지 않은 경우 문제가 생길 수 있다
                         root = find_set((nx, ny))
-                        if mat[nx][ny] == 1 and root != n2:  # 다른 섬(목적지 아님) 만나면 중단
+                        if mat[nx][ny] == 1 and root != n2:  # 목적지 섬이 아니면 실패
                             break
-                        if root == n2 and nw >= 2:  # 목적 섬 도착 + 길이 조건
-                            w = min(w, nw)
-                            # 여기서 edges에 추가
+                        if root == n2 and nw >= 2:  # 목적지 섬 도착 & 길이≥2
+                            if w > nw:
+                                w = nw
+                            edges.append((n1, n2, w))
+                            break
 
                         x, y = nx, ny
 
