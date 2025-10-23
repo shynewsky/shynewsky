@@ -297,6 +297,12 @@ V = len(nodes)
 
 # delta 로 길이 2이상의 다리 모두 찾아 kruskal 간선리스트 만들기 (n1, n2, w)
 edges = kruksal()
+# kruksal() 끝난 뒤
+best = {}
+for a, b, w in edges:
+    if (a, b) not in best or best[(a, b)] > w:
+        best[(a, b)] = w
+edges = [(a, b, w) for (a, b), w in best.items()]
 edges.sort(key=lambda x : x[2])
 '''
 [((1, 0), (6, 0), 2),
