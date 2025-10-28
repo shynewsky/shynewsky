@@ -4,13 +4,10 @@ using namespace std;
 int main(){
     int n;
     cin >> n;
-    
-    int i = 0;
-    int s = 0;
-    while (s < n){
-        i++;
-        s += i;
+
+    for (int i=1; i<=n; i++){
+        if (i % 3 == 0) continue;
+        cout << i << ' ';
     }
-    cout << s;
     return 0;
 }

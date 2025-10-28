@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
-    for (int i = 1; i <= 100; i++){
+    int n;
+    cin >> n;
+    for (int i = 1; i <= n; i++){
         cout << i << ' ';
     }
     return 0;

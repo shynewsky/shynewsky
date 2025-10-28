@@ -2,12 +2,8 @@
 using namespace std;
 
 int main(){
-    int n;
-    cin >> n;
-
-    for (int i=1; i<=n; i++){
-        if (i % 3 == 0) continue;
-        cout << i << ' ';
-    }
+    int a, d, n;
+    cin >> a >> d >> n;
+    cout << a + ((n-1)*d);
     return 0;
 }

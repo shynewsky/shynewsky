@@ -12,23 +12,18 @@ for _ in range(N): # A,B 돌아가면서 N 라운드
 
     # 코드 -------------------------------------
 
-    # 길이가 긴걸 B로 한다
     lenA, lenB = len(A), len(B)
-    if lenA > lenB:
-        a, A, lenA, b, B, lenB = b, B, lenB, a, A, lenA
 
-    # print(a, A, lenA)
-    # print(b, B, lenB)
+    # 길이가 긴걸 B로 한다 ㅡ 답이 달라진다
+    # if lenA > lenB:
+    #     a, A, lenA, b, B, lenB = b, B, lenB, a, A, lenA
+
+    min_len = lenA if lenA < lenB else lenB
 
     # 긴 배열 위주로 순회
     winner = 'D'
-    for i in range(lenB):
-
-        if i > lenA-1: # 작은 배열 끝났으면
-            winner = 'B'
-            break
-
-        if A[i] == B[i]: # 같으면 다음으로 넘기기
+    for i in range(min_len):
+        if A[i] == B[i]:
             continue
         elif A[i] > B[i]:
             winner = 'A'
@@ -36,7 +31,7 @@ for _ in range(N): # A,B 돌아가면서 N 라운드
         elif A[i] < B[i]:
             winner = 'B'
             break
+    else:
+        winner = 'A' if lenA > lenB else 'B' if lenB > lenA else 'D'
 
     print(winner)
-
-
