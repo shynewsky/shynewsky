@@ -33,15 +33,22 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 " />
 -->
 
-<div align="center" style="line-height:0;">
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=100&fontColor=00462a"
-style="display:block; margin:0; padding:0;"
-/><img
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=00462a"
-style="display:block; margin:0; margin-top:-28px; padding:0;"
-/>
-</div>
+<p align="center">
+  <svg width="100%" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Saeha Yang's PORTFOLIO banner">
+    <!-- 상단 물결 -->
+    <image
+      href="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=90&fontColor=00462a"
+      x="0" y="0" width="1200" height="120"
+      preserveAspectRatio="none"
+    />
+    <!-- 하단 물결(약간 겹치게 y를 음수로) -->
+    <image
+      href="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=120&section=footer&text=&fontColor=00462a"
+      x="0" y="-22" width="1200" height="120"
+      preserveAspectRatio="none"
+    />
+  </svg>
+</p>
 
 ---
 
