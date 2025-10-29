@@ -97,14 +97,18 @@ SAEHA YANG's <strong>PORTFOLIO</strong>
 
 ## 📊 GitHub Stats
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=dark"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&theme=dark" />
+<div align="center">
+<a href="https://github.com/shynewsky/">
+  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=vue&hide_border=true&count_private=true" width=56% />
+</a>
+<a href="https://github.com/shynewsky/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 </div>
 
 --- 
+
+## 🔠 Problem Solving
 
 <div align="center">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
