@@ -33,16 +33,17 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 " />
 -->
 
-<div align="center" style="line-height:0;">
+<p align="center" style="line-height:0;">
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=90&fontColor=00462a"
-style="display:block; margin:0; padding:0;"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=90&fontColor=00462a"
+  style="display:block; margin:0; padding:0;"
 />
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=00462a"
-style="display:block; margin-top:-5px; padding:0;"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=00462a"
+  style="display:block; margin-top:-5px; padding:0;"
 />
-</div>
+</p>
+
 
 ---
 
