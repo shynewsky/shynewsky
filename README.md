@@ -35,14 +35,12 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 <div align="center">
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=header" />
-</div>
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100" />
 
-<h3 align="center">
+<p style="font-size:100px;">
 SAEHA YANG's <strong>PORTFOLIO</strong>
-</h3>
+</p>
 
-<div align="center">
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer"
 />
@@ -99,10 +97,10 @@ SAEHA YANG's <strong>PORTFOLIO</strong>
 
 <div align="center">
 <a href="https://github.com/shynewsky/">
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=vue&hide_border=true&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=nord&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/shynewsky/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=vue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=nord&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 </div>
 
