@@ -43,9 +43,9 @@ SAEHA YANG's <strong>PORTFOLIO</strong>
 </h3>
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer"
+/>
 </div>
 
 ---
@@ -89,8 +89,8 @@ SAEHA YANG's <strong>PORTFOLIO</strong>
 ### Engine
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </div>
 
 --- 
@@ -98,14 +98,14 @@ SAEHA YANG's <strong>PORTFOLIO</strong>
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=dark"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&theme=dark" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&layout=compact&theme=dark" />
+</a>
 </div>
 
 --- 
 
 <div align="center">
-  <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
+<img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
 </div>
