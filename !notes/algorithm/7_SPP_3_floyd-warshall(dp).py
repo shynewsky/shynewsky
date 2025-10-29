@@ -4,8 +4,7 @@
 - 동적프로그래밍(DP)
 '''
 '''
-플로이드 워셜은 O(V^3)이어서
-파이썬으로 하면 웬만하면 시간초과 걸린다
+플로이드 워셜은 O(V^3)이어서, 파이썬으로 하면 시간초과 걸린다 (거의 불가능)
 '''
 
 import sys
@@ -17,8 +16,7 @@ INF = float('inf') # 최댓값 설정 : 직접 손으로 구해서 넣는 방법
 
 V, E = map(int, input().split())
 
-# 인접행렬 ㅡ [과제] 인접리스트
-adj_mat = [[INF] * (V+1) for _ in range(V+1)]
+adj_mat = [[INF] * (V+1) for _ in range(V+1)] # 인접행렬
 for i in range(1, V+1): # 대각선(자기 자신)은 0
     adj_mat[i][i] = 0
 for _ in range(E):
