@@ -34,59 +34,41 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 -->
 
 <div align="center">
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=102" />
-
-<!-- <p style="font-size:100px;">
-SAEHA YANG's <strong>PORTFOLIO</strong>
-</p> -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=102&fontColor=00462a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=0053a1" />
 </div>
 
 ---
 
 ## 🔥 About Me
 - 이화여자대학교 융합콘텐츠학과 전공
-- 삼성청년SW·AI아카데미 Python 트랙 이수
+- 삼성청년SW·AI아카데미 Python 트랙
 - 게임 클라이언트 프로그래머 지망
 
 ---
 
 ## 🛠 Tech Stack
 
-### Language
+- <strong>Language</strong> : Python, C, C++, C#
+- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, Vue
+- <strong>Database</strong> : SQL
+- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
+- <strong>Game Engine</strong> : Unity3D, UnrealEngine
+
+<br>
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
-</div>
-
-### Full Stack
-
-<div align="left">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</div>
-
-### AI related
-
-<div align="left">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-FA0E00?style=flat-square&logo=Jupyter&logoColor=white"/>
-</div>
-
-
-### Engine
-
-<div align="left">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </div>
