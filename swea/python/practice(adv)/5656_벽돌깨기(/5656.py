@@ -18,26 +18,8 @@ from pprint import pprint
 - 최대한 많은 벽돌을 제거했을때, 남은 벽돌의 개수 구하기
 '''
 
-# 전역변수 --------------------------------------------------------------------------------
-
-delta = [(1,0), (-1,0), (0,1), (0, -1)]
-
 # 함수 --------------------------------------------------------------------------------
 
-def drop_marble(n): # 구슬 번호
-    if n == N: # 구슬 N번 던지면
-        return
-    drop_marble(n+1)
-
-def break_brick(i, j): # 칸 안에 수
-    if data[i][j] == 1: # 칸 수가 1이면 탈출
-        return
-
-    for di, dj in delta:
-        for c in range(data[i][j]):
-            ni, nj = i+(di*c), j+(dj*c)
-            if 0<=ni<H and 0<=nj<W:
-                break_brick(i+di, j+dj)
 
 # 입력 --------------------------------------------------------------------------------
 
@@ -45,7 +27,38 @@ T = int(input()) # 테스트케이스
 for t in range(1, T+1):
     N, W, H = map(int, input().split()) # N번(1<=N<=4), W*H 배열(2<=W<=12, 2<=H<=15)
     data = [list(map(int, input().split())) for _ in range(H)]
-    pprint(data)
+    # pprint(data)
 
     # 코드 ----------------------------------------------------------------------------
 
+    # drop(0, []) # 구슬 떨어뜨리기 순열 코드
+
+
+
+# def drop(n, path): # 구슬 번호
+#     if n == N: # 구슬 N번 던지면
+#         print(path)
+#         return
+#
+#     i = 0 # 행은 0번
+#     di, dj = (1, 0)  # 아래로 내려가면서 칸 정하기
+#     for j in range(W): # 열 번호 정하면
+#         while True:
+#             ni, nj = i+di, j+dj
+#             if 0<=ni<N and 0<=nj<N and data[ni][nj]:
+#                 drop(n+1, path+[j])
+#
+#
+#
+# def break(i, j):
+#     pass
+
+# def break_brick(i, j): # 칸 안에 수
+#     if data[i][j] == 1: # 칸 수가 1이면 탈출
+#         return
+
+#     for di, dj in delta:
+#         for c in range(data[i][j]):
+#             ni, nj = i+(di*c), j+(dj*c)
+#             if 0<=ni<H and 0<=nj<W:
+#                 break_brick(i+di, j+dj)

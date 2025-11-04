@@ -59,16 +59,24 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/>
+<!---->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<!---->
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-009C8C?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-FA0E00?style=flat-square&logo=Jupyter&logoColor=white"/>
+<!---->
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </div>
