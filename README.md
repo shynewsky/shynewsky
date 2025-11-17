@@ -59,27 +59,24 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
-<table>
-  <tr>
-    <td style="padding: 10px; text-align: center; width: 48%;">
-      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width:100%; height: auto;">
-      <h3><a href="#">Riffle Effect</a></h3>
-      <p>
-        3인 팀 프로젝트<br>
-        C++, DirectX11 활용
-      </p>
-    </td>
-    <td style="padding: 10px; text-align: center; width: 48%;">
-      <img src="assets/card_maplestory.png" alt="Maplestory" style="width: 100%; height: auto;">
-      <h3><a href="#">Maplestory</a></h3>
-      <p>
-        1인 개인 프로젝트<br>
-        C++, DirectX9 활용
-      </p>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="width: 48%; text-align: center;">
+    <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width: 100%; height: 200px; object-fit: cover;">
+    <h3><a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect</a></h3>
+    <p>
+      3인 팀 프로젝트<br>
+      C++, DirectX11 활용
+    </p>
+  </div>
+  <div style="width: 48%; text-align: center;">
+    <img src="assets/card_maplestory.png" alt="Maplestory" style="width: 100%; height: 200px; object-fit: cover;">
+    <h3><a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory</a></h3>
+    <p>
+      1인 개인 프로젝트<br>
+      C++, DirectX9 활용
+    </p>
+  </div>
+</div>
 
 ---
 
