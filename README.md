@@ -62,7 +62,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table>
   <tr>
     <td style="padding: 10px; text-align: center; width: 50%;">
-      <img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Image 1" style="width: 45%; height: 45%;">
+      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width:auto; height: 100px;">
       <h3><a href="#">Riffle Effect</a></h3>
       <p>
         3인 팀 프로젝트<br>
@@ -70,7 +70,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
       </p>
     </td>
     <td style="padding: 10px; text-align: center; width: 50%;">
-      <img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Image 2" style="width: 45%; height: 45%;">
+      <img src="assets/card_maplestory.png" alt="Maplestory" style="width: auto; height: 100px;">
       <h3><a href="#">Maplestory</a></h3>
       <p>
         1인 개인 프로젝트<br>
