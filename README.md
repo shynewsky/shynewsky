@@ -41,9 +41,11 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 # 안녕하세요. 【 양새하 】입니다.
 
-> 인터렉션에 대한 관심으로 여러 게임 프로젝트를 진행하였지만, <br>게임 산업 외에도 다양한 산업에 열려있습니다
+인터렉션에 대한 관심으로 여러 게임 프로젝트를 진행하였지만, <br>게임 산업 외에도 다양한 산업에 열려있습니다
 
 ---
+
+## 🎯 대표 프로젝트
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -77,8 +79,9 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 ---
 
 ## 🔥 About Me
-- 이화여자대학교 융합콘텐츠학과 전공
-- 삼성청년SW·AI아카데미 Python 트랙 이수
+- 이화여자대학교 융합콘텐츠학과 전공 졸업 (2025)
+- 삼성청년SW·AI아카데미 Python 트랙 이수 (2025)
+- 쥬신아카데미 C++, DirectX 과정 수강 (2024)
 
 ---
 
@@ -86,16 +89,14 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - STEAM 물멍키트 출시 (2023)
 - 넥슨 슈퍼해커톤 참여 (2022)
 - 스마일게이트 온라인게임잼 참여 (2022)
-- 대학연합동아리 GameMakers 6기 (2022)
+- 대학연합동아리 GameMakers 활동 (2022)
 
 ---
-
-
 
 ## 🛠 Tech Stack
 
 - <strong>Language</strong> : Python, C, C++, C#
-- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, Vue
+- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
 - <strong>Database</strong> : SQL
 - <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
 - <strong>Game Engine</strong> : Unity3D, UnrealEngine
