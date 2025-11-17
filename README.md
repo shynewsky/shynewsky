@@ -59,20 +59,53 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
-<div style="display: flex; width: 100%; justify-content: space-between;">
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td style="width:48%; text-align:center; vertical-align:middle;">
+      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
+    </td>
+    <td style="width:48%; text-align:center; vertical-align:middle;">
+      <img src="assets/card_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
+    </td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect</a></th>
+    <th><a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory</a></th>
+  </tr>
+  <tr>
+    <th>      
+      3인 팀 프로젝트<br>
+      C++, DirectX11 활용
+    </th>
+    <th>
+      1인 개인 프로젝트<br>
+      C++, DirectX9 활용
+    </th>
+  </tr>
+</table>
+
+
+
+
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="width: 48%; text-align: center; vertical-align:middle;">
     <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width: 100%; height: 200px; object-fit: cover;">
     <h3><a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect</a></h3>
-    <p>3인 팀 프로젝트<br>C++, DirectX11 활용</p>
+    <p>
+      3인 팀 프로젝트<br>
+      C++, DirectX11 활용
+    </p>
   </div>
-  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div style="width: 48%; text-align: center; vertical-align:middle;">
     <img src="assets/card_maplestory.png" alt="Maplestory" style="width: 100%; height: 200px; object-fit: cover;">
     <h3><a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory</a></h3>
-    <p>1인 개인 프로젝트<br>C++, DirectX9 활용</p>
+    <p>
+      1인 개인 프로젝트<br>
+      C++, DirectX9 활용
+    </p>
   </div>
 </div>
-
-
 
 ---
 
