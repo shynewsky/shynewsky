@@ -124,8 +124,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <img src="https://img.shields.io/badge/Jupyter-FA0E00?style=flat-square&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
-</div> 
--->
+</div> -->
 
 ---
 
