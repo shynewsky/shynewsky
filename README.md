@@ -33,17 +33,62 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 " />
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=102&fontColor=00462a" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=0053a1" />
-</div>
+</div> -->
+
+
+# 안녕하세요.<br>[양새하]입니다.
+
+> <strong>"인터렉션"</strong> 에 대한 관심으로 여러 게임 프로젝트를 진행하였지만, <br> 현재는 다양한 산업에 열려있습니다
 
 ---
 
 ## 🔥 About Me
 - 이화여자대학교 융합콘텐츠학과 전공
-- 삼성청년SW·AI아카데미 Python 트랙
-- 게임 클라이언트 프로그래머 지망
+- 삼성청년SW·AI아카데미 Python 트랙 이수
+
+---
+
+## 💻 Related Activities
+- STEAM 물멍키트 출시 (2023)
+- 넥슨 슈퍼해커톤 참여 (2022)
+- 스마일게이트 온라인게임잼 참여 (2022)
+- 대학연합동아리 GameMakers 6기 (2022)
+
+---
+
+<div class="card" style="width: 18rem;">
+  <img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h3 class="card-title"><a href="#">Riffle Effect</a></h3>
+    <p class="card-text">description</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<table>
+  <tr>
+    <td style="padding: 10px; text-align: center; width: 50%;">
+      <img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Image 1" style="width: 100%; height: auto;">
+      <h3><a href="#">Riffle Effect</a></h3>
+      <p>
+        3인 팀 프로젝트<br>
+        C++, DirectX11 활용
+      </p>
+    </td>
+    <td style="padding: 10px; text-align: center; width: 50%;">
+      <img src="https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*" alt="Image 2" style="width: 100%; height: auto;">
+      <h3><a href="#">Maplestory</a></h3>
+      <p>
+        1인 개인 프로젝트<br>
+        C++, DirectX9 활용
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
