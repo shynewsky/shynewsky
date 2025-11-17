@@ -62,7 +62,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table>
   <tr>
     <td style="padding: 10px; text-align: center; width: 50%;">
-      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width:auto; height: 100px;">
+      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="width:auto; height: 100%;">
       <h3><a href="#">Riffle Effect</a></h3>
       <p>
         3인 팀 프로젝트<br>
@@ -70,7 +70,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
       </p>
     </td>
     <td style="padding: 10px; text-align: center; width: 50%;">
-      <img src="assets/card_maplestory.png" alt="Maplestory" style="width: auto; height: 100px;">
+      <img src="assets/card_maplestory.png" alt="Maplestory" style="width: auto; height: 100%;">
       <h3><a href="#">Maplestory</a></h3>
       <p>
         1인 개인 프로젝트<br>
