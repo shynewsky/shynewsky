@@ -94,6 +94,14 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
+## 🏷️ Interest
+
+- 생명과학/의학 : 한가람고등학교 생I, 생II, 고급생명 수강 (2017)
+- 게임/인터렉션 : 
+
+
+---
+
 ## 🛠 Tech Stack
 
 - <strong>Language</strong> : Python, C, C++, C#
@@ -131,6 +139,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 - 2025.03.21. - ADsP 데이터분석준전문가
 - 2025.02.02. - PCCE (C++) Lv3
+
+
+- 
+
 
 ---
 
