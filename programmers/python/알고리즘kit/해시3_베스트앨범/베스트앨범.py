@@ -1,27 +1,33 @@
 def solution(genres, plays):
 
     # 가공
-    n = len(genres)
-    select_song = {}  # ['pop', 'classic']
-    select_genre = {} # {'classic': [[500, 0], [150, 2], [800, 3]], 'pop': [[600, 1], [2500, 4]]}
+    songs = {}
+    count = {}
+    for i in range(len(genres)):
+        if not songs.get(genres[i]):
+            songs[genres[i]] = []
+            count[genres[i]] = 0
+        songs[genres[i]].append([plays[i], i])
+        count[genres[i]] += plays[i]
 
-    for i in range(n):
-        if select_song.get(genres[i]):
-            select_song[genres[i]].append([plays[i], i])
-            select_genre[genres[i]] += plays[i]
-        else:
-            select_song[genres[i]] = [[plays[i], i]]
-            select_genre[genres[i]] = plays[i]
+    print(songs)
+    print(count)
 
-    for key, value in select_song.items():
-        select_song[key] = sorted(value, key=lambda x: (-x[0], x[1]))
-    select_genre = sorted(select_genre, reverse=True)
+    for key, value in songs.items():
+        songs[key] = sorted(value, key=lambda x: (-x[0], x[1]))
+    count = sorted(count, reverse=True)
+
+    print(songs) # {'classic': [[800, 3], [500, 0], [150, 2]], 'pop': [[2500, 4], [600, 1]]}
+    print(count) # ['pop', 'classic']
 
     # 코드
     answer = []
-    for genre in select_genre:
-        answer.append(select_song[genre][0][1])
-        answer.append(select_song[genre][1][1])
+    for genre in count:
+        if len(songs[genre]) == 1:
+            answer.append(songs[genre][0][1])
+        else:
+            answer.append(songs[genre][0][1])
+            answer.append(songs[genre][1][1])
 
     print(answer)
     return answer
