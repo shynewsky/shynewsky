@@ -42,7 +42,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 # 안녕하세요.【 양새하 】입니다.
 
 인터렉션에 대한 관심으로 여러 게임 프로젝트를 진행하였지만,<br>
-게임 산업 외에도 다양한 산업에 열려있습니다
+디지털과 상호작용하는 다양한 산업에 관심이 있습니다.
 
 ---
 
@@ -51,10 +51,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="assets/card_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="assets/card_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -80,8 +80,8 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 ---
 
 ## 🔥 About Me
-- 이화여자대학교 융합콘텐츠학과 전공 졸업 (2025)
 - 삼성청년SW·AI아카데미 Python 트랙 이수 (2025)
+- 이화여자대학교 융합콘텐츠학과 전공 졸업 (2025)
 - 쥬신아카데미 C++, DirectX 과정 수강 (2024)
 
 ---
@@ -95,54 +95,35 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 ---
 
 ## 🏷️ Interest
-
-- 생명과학/의학 : 한가람고등학교 생I, 생II, 고급생명 수강 (2017)
-- 게임/인터렉션 : 
-
+- 인터렉션/UX : 이화여대 UX기획&디자인트랙 이수 (2024)
+- 4차/5차산업 : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
+- 생명과학/의학 : 한가람고 생I, 생II, 고급생명 수강 (2017)
 
 ---
 
 ## 🛠 Tech Stack
-
 - <strong>Language</strong> : Python, C, C++, C#
 - <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
 - <strong>Database</strong> : SQL
 - <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
 - <strong>Game Engine</strong> : Unity3D, UnrealEngine
 
-<!--
-<div align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%23&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-009C8C?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0E00?style=flat-square&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
-</div>
--->
-
 ---
 
 ## 🪪 Certificates
 
-- 2025.03.21. - ADsP 데이터분석준전문가
-- 2025.02.02. - PCCE (C++) Lv3
+- 2025.03.21.ㅣADsP 데이터분석준전문가
+- 2025.02.02.ㅣPCCE (C++) Lv3
 
+---
 
-- 
+## 🆎 Foreign Language
 
+- 2024.11.30.ㅣOPIc English IH
+- 2024.11.24.ㅣTOEIC (950/990)
+- 2024.11.16.ㅣTOEIC Speaking AL (170/200)
+- 2022.01.13.ㅣJLPT N2 (145/180)
+- 2019.08.03.ㅣTOEFL (107/120)
 
 ---
 
@@ -150,16 +131,16 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 <div align="center">
 <a href="https://github.com/shynewsky/">
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=nord&hide_border=true&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/shynewsky/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=nord&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=default&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 </div>
 
 --- 
 
-## 🔠 Problem Solving
+## 🔣 Problem Solving
 
 <div align="center">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
