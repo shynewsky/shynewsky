@@ -1,0 +1,41 @@
+#wrap {
+    width: 1200px;
+    margin: 0 auto;
+    /*popup*/
+    position: relative;
+}
+#contents .content3 {
+    width: 33.3333%;
+    height: 200px;
+    background-color: #bcbcbc;
+    /*popup*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*---------------------------------------------------*/
+
+/*popup*/
+.popup-btn {
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+}
+.popup-view {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-color: orange;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 3px solid black;
+    z-index: 1000;
+    display: none;
+}
+/*popup-btn과 같음*/
+.popup-close {
+    background-color: yellow;
+    padding: 10px;
+    display: inline-block;
+}

@@ -1,0 +1,71 @@
+/* M-3 배경추가 */
+
+#header {
+    width: 100%;
+    /* height: 100px;
+    background-color: red; */
+    display: flex;
+    position: relative;
+}
+#header .nav{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+#header::after {
+    content: '';
+    background-color: purple;
+    width: 100%;
+    height: 0;
+    top: 100px;
+    left: 0;
+    position: absolute;
+    z-index: 1;
+    transition: all 400mx;
+}
+#header.on::after{
+    height: 155px;
+}
+
+.nav {
+    z-index: 1000;
+}
+
+/*------------------------------------*/
+
+/* M-1, M-2, M-3 공통 */
+
+.nav > ul {
+    display: flex;
+    justify-content: right;
+    margin-top: 60px;
+}
+.nav > ul > li {
+    position: relative;
+}
+
+.nav > ul > li > a {
+    display: inline-block;
+    background-color: lightcoral;
+    padding: 10px 50px;
+}
+.nav > ul > li > a:hover {
+    background-color: coral;
+}
+
+.nav > ul > li > ul {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+.nav > ul > li > ul > li > a {
+    display: inline-block;
+    background-color: pink;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.nav > ul > li > ul > li > a:hover{
+    background-color: plum;
+}

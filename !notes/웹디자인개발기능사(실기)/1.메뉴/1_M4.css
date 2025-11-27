@@ -1,0 +1,23 @@
+.nav > ul > li > a {
+    display: block;
+    background-color: lightcoral;
+    padding: 10px;
+    text-align: center;
+}
+.nav > ul > li > a:hover {
+    background-color: coral;
+}
+
+.nav > ul > li > ul {
+    display: none;
+}
+
+.nav > ul > li > ul > li > a {
+    display: block;
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+}
+.nav > ul > li > ul > li > a:hover{
+    background-color: plum;
+}
