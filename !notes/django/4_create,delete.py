@@ -24,4 +24,3 @@ def signout(request):
     request.user.delete()
     auth_logout(request)   # 여기
     return redirect('articles:index')
- 
