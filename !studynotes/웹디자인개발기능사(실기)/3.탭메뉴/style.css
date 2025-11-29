@@ -1,0 +1,27 @@
+/*tab*/
+.tab-menu {
+    padding: 20px;
+}
+
+/*btn*/
+.tab-menu .tab-btn ul{
+    display: flex;
+}
+.tab-menu .tab-btn li{
+    list-style: none;
+}
+.tab-menu .tab-btn li a {
+    display: block;
+    padding: 10px;
+    background-color: red;
+}
+.tab-menu .tab-btn li.active a {
+    text-decoration: underline;
+}
+
+/*cont*/
+.tab-menu .tab-cont > div {
+    background-color: orange;
+    padding: 10px;
+    line-height: 1.6;
+}
