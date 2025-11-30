@@ -1,0 +1,1 @@
+# 숫자를 인덱스로, 개수를 원소로 ⭐temps[counts[arr[i]]] = arr[i]⭐
