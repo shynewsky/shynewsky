@@ -112,18 +112,18 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ## 🪪 Certificates
 
-- 2025.03.21.ㅣADsP 데이터분석준전문가
-- 2025.02.02.ㅣPCCE (C++) Lv3
+- <strong>2025.03.21.</strong>ㅣADsP 데이터분석준전문가
+- <strong>2025.02.02.</strong>ㅣPCCE (C++) Lv3
 
 ---
 
 ## 🆎 Foreign Language
 
-- 2024.11.30.ㅣOPIc English IH
-- 2024.11.24.ㅣTOEIC (950/990)
-- 2024.11.16.ㅣTOEIC Speaking AL (170/200)
-- 2022.01.13.ㅣJLPT N2 (145/180)
-- 2019.08.03.ㅣTOEFL (107/120)
+- <strong>2024.11.30.</strong>ㅣOPIc English IH
+- <strong>2024.11.24.</strong>ㅣTOEIC (950/990)
+- <strong>2024.11.16.</strong>ㅣTOEIC Speaking AL (170/200)
+- <strong>2022.01.13.</strong>ㅣJLPT N2 (145/180)
+- <strong>2019.08.03.</strong>ㅣTOEFL (107/120)
 
 ---
 
