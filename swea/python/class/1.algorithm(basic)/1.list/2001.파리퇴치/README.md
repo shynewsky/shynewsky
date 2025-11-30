@@ -1,0 +1,58 @@
+# Delta
+
+### 델타
+
+```python
+    # 기준점(i,j)을 중심으로
+    # 오른쪽으로 M행 M열 의 파리 합 중
+    # 한번 내리쳐서 최대한 많이 죽일 수 있는 파리 수
+
+    max_sum = 0
+
+    for i in range(N) : # 기준점 행 이동
+        for j in range(N) : # 기준점 열 이동
+            here = matrix[i][j]
+
+            sum_fly = 0
+
+            for k in range(M) : # 부분 행렬 행 이동
+                for l in range(M): # 부분 행렬 열 이동
+
+                    ni, nj = i + k, j + l
+                    if 0<=ni<N and 0<=nj<N : # 범위 벗어나면 처리
+                        sum_fly += matrix[i+k][j+l]
+
+            if max_sum < sum_fly :
+                max_sum = sum_fly
+
+    print(max_sum)
+```
+
+---
+
+### 리스트 슬라이싱
+
+```python
+    max_sum = -1
+    row_, col_, r_, l_ = 0, 0, 0, 0
+    for i in range(100):
+    
+        for j in range(100):
+            row_ += delta[i][j]    # 행 값 누적
+            col_ += delta[j][i]    # 열 값 누적
+            if i == j:             # 대각선 값 누적
+                r_ += delta[i][j]
+            if i + j == 99:        # 역대각선 값 누적
+                l_ += delta[i][j]
+                
+        if row_ > max_sum:
+            max_sum = row_
+        if col_ > max_sum:
+            max_sum = col_
+        if r_ > max_sum:
+            max_sum = r_
+        if l_ > max_sum:
+            max_sum = l_
+            
+        row_, col_ = 0, 0          # 행, 열 총 합 초기화
+```
