@@ -1,0 +1,1 @@
+# deque, print(*q)
