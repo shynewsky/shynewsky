@@ -46,6 +46,15 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
+## 🛠 Tech Stack
+- <strong>Language</strong> : Python, C, C++, C#
+- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
+- <strong>Database</strong> : SQL
+- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
+- <strong>Game Engine</strong> : Unity3D, UnrealEngine
+
+---
+
 ## 🎯 대표 프로젝트
 
 <table border="1" cellpadding="5" cellspacing="0">
@@ -134,15 +143,6 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>인터렉션/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
 - <strong>4차/5차산업</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
 - <strong>생명과학/의학</strong> : 한가람고 생I, 생II, 고급생명 수강 (2017)
-
----
-
-## 🛠 Tech Stack
-- <strong>Language</strong> : Python, C, C++, C#
-- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
-- <strong>Database</strong> : SQL
-- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
-- <strong>Game Engine</strong> : Unity3D, UnrealEngine
 
 ---
 

@@ -6,5 +6,6 @@
         "**/templates/**/*": "django-txt",
         "**/requirements{/**,*}.{txt,in}": "pip-requirements",
         "iostream": "cpp"
-    }
+    },
+    "liveServer.settings.port": 5501
 }
