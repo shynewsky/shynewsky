@@ -50,7 +50,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>Language</strong> : Python, C, C++, C#
 - <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
 - <strong>Database</strong> : SQL
-- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter
+- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter, PyTorch
 - <strong>Game Engine</strong> : Unity3D, UnrealEngine
 
 ---
