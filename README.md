@@ -51,6 +51,35 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
+      <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
+    </td>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
+      <img src=".assets/card_mrpcpicker1.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+    </td>
+  </tr>
+  <tr>
+    <th>
+    <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
+    </th>
+    <th>
+    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025 진행중)</a>
+    </th>
+  </tr>
+  <tr>
+    <th>      
+      4인 팀 프로젝트<br>
+      Jupyter Notebook, Kaggle 활용
+    </th>
+    <th>
+      2인 팀 프로젝트<br>
+      Django REST API, Vue 활용
+    </th>
+  </tr>
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
@@ -59,10 +88,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect</a>
+    <a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect (2024)</a>
     </th>
     <th>
-    <a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory</a>
+    <a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory (2024)</a>
     </th>
   </tr>
   <tr>
