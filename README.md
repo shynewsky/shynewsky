@@ -41,7 +41,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 # 기획과 디자인을 이해하는 <br>풀스택 프로그래머【 양새하 】입니다.
 
-융합콘텐츠학과에서 **Digital 의 무한한 가능성**을 깨닫고 <br>**Human Computer Interaction (HCI)** 에 대한 관심으로 40여개의 프로젝트를 진행하였습니다.
+융합콘텐츠학과에서 <a>**Digital 의 무한한 가능성**</a>을 깨닫고 <br>**Human Computer Interaction (HCI)** 에 대한 관심으로 40여개의 프로젝트를 진행하였습니다.
 
 AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 모바일 콘텐츠 디자인 <br>● Unity · Unreal 을 사용한 게임 개발 ● Youtube 영상 제작과 음향 작업 등
 
