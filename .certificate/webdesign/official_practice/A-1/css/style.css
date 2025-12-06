@@ -184,9 +184,9 @@
     overflow: hidden;
 }
 
-.sliderWrap .slider {
-    position: relative;
-}
+    .sliderWrap .slider {
+        position: relative;
+    }
     .sliderWrap .slider img {
         vertical-align: top;
     }
@@ -254,10 +254,6 @@
     margin: 0 auto;
 
     position: relative;
-}
-
-.popup-btn a:hover {
-    text-decoration: underline;
 }
 
 .popup-view {

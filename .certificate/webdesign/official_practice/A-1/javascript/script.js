@@ -10,7 +10,7 @@ $(function(){
 
     // S-3
     let currentIndex=0;
-    $('.sliderWrap').append($('.slider').first().clone(true));
+    $('.sliderWrap').append($('.slide').first().clone(true));
     setInterval(function(){
         currentIndex++;
         $('.sliderWrap').animate({marginTop: -currentIndex * 350 + 'px'}, 600);

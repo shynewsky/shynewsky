@@ -56,31 +56,62 @@
         </header>
         <article id="slider">
             <div class="sliderWrap">
-                <div class="slider">
-                    <img src="images/img1.jpg" alt="img1">
-                </div>
-                <div class="slider">
-                    <img src="images/img2.jpg" alt="img2">
-                </div>
-                <div class="slider">
-                    <img src="images/img3.jpg" alt="img3">
-                </div>
+                <div class="slide"><img src="images/img1.jpg" alt="img1"><span>IMG1</span></div>
+                <div class="slide"><img src="images/img2.jpg" alt="img2"><span>IMG2</span></div>
+                <div class="slide"><img src="images/img3.jpg" alt="img3"><span>IMG3</span></div>
             </div>
         </article>
         <main id="contents">
-            <section class="content1"></section>
-            <section class="content2"></section>
-            <section class="content3"></section>
+            <section class="content1">
+                <div class="tab-btn">공지사항</div>
+                <div class="tab-cont">
+                    <div class="tab1">
+                        <p><a href="#" class="popup-btn">공지1</a><span>날짜1</span></p>
+                        <p>공지2<span>날짜2</span></p>
+                        <p>공지3<span>날짜3</span></p>
+                        <p>공지4<span>날짜4</span></p>
+                    </div>
+                </div>
+            </section>
+            <section class="content2">
+                <div class="tab-btn">갤러리</div>
+                <div class="tab-cont">
+                    <div class="tab2">
+                        <img src="images/gallery1.jpg" alt="gallery1">
+                        <img src="images/gallery2.jpg" alt="gallery2">
+                        <img src="images/gallery3.jpg" alt="gallery3">
+                    </div>
+                </div>
+            </section>
+            <section class="content3"><img src="images/banner.jpg" alt="banner"><span>배너</span></section>
         </main>
         <footer id="footer">
             <div class="footer1"></div>
             <div class="footer2"></div>
-            <div class="footer3"></div>
+            <div class="footer3">
+                <div class="familysite">
+                    <select name="sitelist">
+                        <option value="#">패밀리사이트1</option>
+                        <option value="#">패밀리사이트2</option>
+                        <option value="#">패밀리사이트3</option>
+                    </select>
+                </div>
+            </div>
         </footer>
     </div>
 
+    <div class="popup-bg"></div>
 
+    <div class="popup-view">
+        <h2 class="popup-title">타이틀</h2>
+        <div class="popup-body">
+            <p>팝업내용1</p>
+            <p>팝업내용2</p>
+            <p>팝업내용3</p>
+            <p>팝업내용4</p>
+        </div>
+        <a href="#" class="popup-close">닫기</a>
+    </div>
 
-    
 </body>
 </html>
