@@ -39,3 +39,16 @@
     padding: 10px;
     display: inline-block;
 }
+
+/*---------------------------------------------------*/
+
+.popup-bg {
+    position: fixed;
+    background: rgba(0,0,0,0.5); /* 반투명 검정 */
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+    z-index: 500;
+}
