@@ -1,0 +1,355 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  font-family: "맑은 고딕";
+  color: #333333;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  min-width: 1000px; 
+  min-height: 820px; 
+  background-color: #ffffff;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  display: block;
+}
+
+/* header(tag) → .header */
+.header {
+  float: left;
+  background-color: #171c61;
+}
+.top {
+  float: left;
+  width: 200px;
+  height: calc(100vh - 100px);
+  min-height: 720px;
+}
+.logo {
+  float: left;
+  width: 200px;
+  height: 120px;
+  margin-top: 30px;
+}
+.logo img {
+  float: left;
+  width: 180px;
+  height: 100px;
+  margin-left: 10px;
+}
+.menu {
+  float: left;
+  width: 190px;
+  margin-left: 10px;
+  text-align: center;
+}
+.navi>li {
+  float: left;
+  width: 190px;
+  height: 50px;
+}
+.navi>li>a {
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.navi>li>a:hover {
+  background-color: #ffe200;
+  color: #000000;
+}
+.submenu {
+  width: 100%;
+  position: relative;
+  top: -50px;
+  left: 190px;
+  display: none;
+  z-index: 1;
+}
+.submenu>li>a {
+  float: left;
+  width: 180px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+}
+.submenu>li>a:hover {
+  background-color: #ffe200;
+  color: #000000;
+}
+
+.bodywrap {  /* imgslide와 contents 묶어줌 */
+  float: right;
+  width: calc(100% - 200px);/* 창너비에서 200px(.top영역)을 제외 */
+  height: calc(100vh - 100px); /* 100%에서 footer높이 100px제외 */
+  min-height: 720px; /* 820px에서 footer 높이 100px제외 */
+}
+.contents {
+  float: left;
+  width: 400px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+/* #banner → .banner, .bntext → .tab-title */
+.banner {
+  width: 100%;     /* 배너 슬라이드 너비 */
+  height: 130px;   /* 배너 슬라이드 높이 */
+}
+.banner img {
+  float: left;
+  width: 15%;
+  height: auto;
+  padding-top: 40px;
+  padding-left: 5%;
+  margin: 0 auto;
+}
+.banner .tab-title {
+  float: left;
+  width: 70%;
+  height: auto;
+  font-size: 16px;
+  padding-top: 40px;
+  padding-left: 5%;
+}
+.banner .tab-title:hover {
+  font-weight: bold;
+}
+
+/* .tab h4 → .tab .tab-title */
+.tab {              /* 공지사항, 갤러리 메뉴 탭(구분선) */
+  width: 380px;
+  height: 50px;
+  border-top: 2px solid #c2c2c2;
+}
+.tab .tab-title {   /* 공지사항, 갤러리 메뉴 탭(폰트) */
+  float: left;
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+}
+
+.notice {           /* 공지사항 콘텐츠 영역 스타일 */
+  float: left;
+  width: 100%;
+  height: 200px;
+  margin-top: 12px;
+}
+.notice li {        /* 공지사항 리스트 영역 스타일 */
+  width: 360px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.notice span {     /* <span>요소로 구성한 날짜 영역 스타일 */
+  float: right;
+}
+.notice li:hover { /* 공지사항 리스트에 마우스를 올릴 때 스타일 */
+  font-weight: bold;
+}
+
+.gallery {          /* 갤러리 콘텐츠 영역 스타일 */
+  float: left;
+  width: 100%;
+  height: 200px;
+  margin-top: 10px;
+}
+.gallery ul {
+  display: flex;
+  justify-content: space-around;
+}
+.gallery li {
+  float: left;
+  width: 180px;
+  height: 150px;
+  font-size: 16px;
+  text-align: center;
+}
+.gallery img {      /* 갤러리 콘텐츠 이미지 영역 스타일 */
+  height: 125px;
+}
+.gallery li:hover { /* 갤러리 콘텐츠에 마우스를 올릴 때 스타일 */
+  opacity: 0.5;
+}
+
+/* #shortcut → .shortcut */
+.shortcut {
+  float: left;
+  width: 100%;
+  height: 90px;
+  margin-top: 10px;
+  border-top: 2px solid #c2c2c2;
+  display: flex;
+  position: relative;
+}
+.shortcut img {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+}
+.shortcut img:hover { /* 갤러리 콘텐츠에 마우스를 올릴 때 스타일 */
+  opacity: 0.5;
+}
+
+.imgslide {         /* B영역:이미지 슬라이드 영역 */
+  float: right;
+  width: calc(100% - 400px);  /* 이미지 슬라이드 너비 */
+  height: 100%;               /*이미지 슬라이드 높이 */
+  position: relative;
+  overflow: hidden;
+}
+.slidelist {        /* 이미지 3개를 가로로 배치하는 영역 */
+  width: 300%;
+  height: 100%;
+}
+.slidelist li {
+  width: calc(100% / 3);
+  padding: 0;
+  float: left;
+}
+.slidelist img {
+  width: 100%;
+  height: calc(100vh - 100px);
+  object-fit: cover;
+}
+@media (max-height: 820px) {
+  .slidelist img {
+    height: 720px;
+  }
+}
+.slidelist li span {
+  width: 400px;
+  height: 50px;
+  position: absolute;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 50px;
+  background-color: rgba(40, 40, 40, 0.5);
+  top: 50%;
+  margin-left: -50%;
+  transform: translate(-50%, -50%);
+}
+
+#modal {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+  display: none;
+}
+#modal.active {
+  display: block;
+}
+.modal_up {         /*레이어 팝업창 스타일*/
+  width: 400px;
+  height: 300px;
+  position: fixed;
+  left: 40%;
+  top: 30%;
+  background-color: #ffffff;
+}
+.uptitle {
+  margin-top: 30px;
+  text-align: center;
+  line-height: 16px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.upbody {
+  padding: 30px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 30px;
+}
+.btn {
+  width: 80px;
+  height: 20px;
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  background: #cccccc;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+/* footer(tag) → .footer (래퍼 .bottom 사용) */
+.footer {             /* D영역:하단 영역 */
+  float: left;
+  width: 100%;        /* 하단 너비(브라우저100%) */
+  height: 100px;      /* 하단 높이 */
+  position: relative;
+  background-color: #aeadad;
+  z-index: 1;
+}
+.bottom {
+  width: 100%;
+  height: 100%;
+}
+.btlogo {
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+.btlogo img {
+  float: left;
+  width: 180px;
+  height: 100px;
+  margin-left: 10px;
+}
+.copy {
+  float: left;
+  width: calc(100% - 500px);    /* Copyright 너비 */
+  height: 100px;                /* Copyright 높이 */
+  text-align: center;
+  font-size: 16px;
+  line-height: 100px;
+}
+.sns {
+  float: right;
+  width: 270px;
+  height: 100px;
+  margin-right: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sns ul {
+  float: right;
+  margin-right: 10px;
+}
+.sns li {
+  display: inline-block;
+}
+.sns img {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+.sns img:hover {
+  opacity: 0.5;
+}

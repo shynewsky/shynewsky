@@ -1,0 +1,352 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0 auto;
+	padding:0;
+	list-style:none;
+	font-family:"맑은 고딕";
+	color:#333333
+}
+body{
+	width:1200px;
+	background-color:#ffffff;
+	font-size:20px;
+}
+a{
+	text-decoration:none;
+	display:block;
+}
+header{
+	height:100px; /*상단 높이*/
+	width:1200px; /*상단 너비*/
+	position:relative; 
+}
+.top{             /*logo와 menu 묶어줌*/
+	height:100px; /*상단 로고와 메뉴가 들어가는 곳 높이*/
+	width:1200px; /*상단 로고와 메뉴가 들어가는 곳 너비*/
+	position:absolute;
+}
+.logo{            /*로고 영역 스타일*/
+	float:left;
+	height:100px; /*로고 영역 높이*/
+	width:250px;  /*로고 영역 너비*/
+}
+.logo img{
+	float:left;
+	height:50px;
+	width:200px;
+	margin-top:25px;
+	margin-left:15px;
+}
+.menu{            /*메뉴 영역 스타일*/
+	float:right;
+	width:800px;  /*메뉴 영역 너비*/
+	position:absolute;
+	right:0px;
+	top:30px;
+	background-color:#ffffff; 
+	z-index:1; 	
+}
+.navi>li{
+	float:left;
+	               /*1판 1쇄 도서에 표시된 'height:40px;'는 오류이며 해당 부분을 삭제해야 합니다. 정오표와 답안 파일에는 해당 부분을 수정하였습니다. */
+	width:200px;
+	background-color:#5e1742;
+}
+.navi>li>a{
+	line-height:40px; 
+	font-size:16px;	
+	font-weight:bold;
+	text-align:center;
+	color:#ffffff; 
+}
+.navi>li:hover{
+	background-color:#c9463d;  
+}
+.submenu{         
+	display:none;
+}
+.submenu>li{
+	               /*1판 1쇄 도서에 표시된 'height:35x;'는 오류이며 해당 부분을 삭제해야 합니다. 정오표와 답안 파일에는 해당 부분을 수정하였습니다. */
+	width:200px;
+	background-color:#ffffff; 
+}
+.submenu>li>a{
+	line-height:35px; 
+	font-size:14px;	
+	font-weight:bold;
+	text-align:center;
+}
+.submenu>li:hover{ 
+	background-color:#c9463d;
+}
+.bodywrap{        /*imgslide와 contents 묶어줌*/
+	height:500px; /*imgslide 높이 + contents 높이*/
+	width:1200px; /*imgslide 높이 + contents 너비*/
+}
+.imgslide{
+	height:300px; /*이미지 슬라이드 높이*/
+	width:1200px; /*이미지 슬라이드 너비*/
+	position:relative; /*이미지 슬라이드 영역 제한*/
+	overflow:hidden;   /*영역 밖으로 보이지 않도록 제한*/
+}
+.imgslide>a{
+    display:block; 
+    position:absolute; 
+}
+.imgtext{
+    height:50px;
+    width:500px;
+    position:absolute;
+    margin: -30px 0 0 -250px;
+    text-align:center;
+    color:#ffffff;
+    font-weight:bold;
+    line-height:50px;
+    background-color:rgba(40,40,40,0.5);
+    left:50%;
+    top:50%;  
+}
+.contents{        /*tabmenu와 otherwrap 묶어줌*/
+	height:200px; /*콘텐츠들(탭메뉴,배너,바로가기) 높이*/
+	width:1200px; /*콘텐츠들(탭메뉴,배너,바로가기) 너비*/
+	position:absolute;
+}
+.tabmenu{         /*공지사항과 갤러리 탭메뉴가 들어가는 곳*/
+	float:left;
+	height:180px;
+	width:395px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.tabmenu>li{      /*탭 타이틀 영역 스타일*/
+	float:left;
+	width:100px;
+	line-height:30px;
+}
+.tabmenu>li>a{    /*탭 타이틀 영역 <a> 요소 스타일*/
+	display:block; 
+	font-size:16px;
+	text-align:center; 
+	background-color:#cccccc; 
+	border:1px solid #dddddd;
+	border-bottom:none;
+}
+.tabmenu>li>a:hover{ /*<a> 요소에 마우스를 올릴 때 스타일*/ 
+  	background-color:#eeeeee;
+}
+.tabmenu>li:first-child a{ /*탭 타이틀 첫 번째 요소의 <a> 요소 스타일*/ 
+	border-right:none;
+}
+.tabmenu>li.active>a{ /*active 클래스가 추가된 <a> 요소 스타일*/ 
+  	background-color:#ffffff; 
+}
+.tabmenu>li div{        /*탭 콘텐츠 영역 스타일*/
+	position:absolute;
+	left:0px;
+	height:0px;
+	overflow:hidden;
+	top:40px;
+}
+.tabmenu>li.active div{ /*active 클래스가 추가된 탭 콘텐츠 영역 스타일*/
+	width:393px; 
+	height:148px; 
+	border:1px solid #dddddd;
+	z-index:1;
+}
+.notice ul{  /*공지사항 콘텐츠 영역 스타일*/
+	float:left;
+	width:393px; 
+	margin-top:12px;
+	margin-bottom:12px;
+}
+.notice li{  /*공지사항 리스트 영역 스타일*/
+	height:32px;
+	line-height:32px;
+	font-size:15px;
+	margin-left:10px;
+	margin-right:10px;
+}
+.notice li:nth-child(2n){ /*공지사항 중 2배수 리스트 스타일*/
+	background-color:#cccccc;
+}
+.notice li span{   /*<span>요소로 구성한 날짜 영역 스타일*/
+	float:right;
+}
+.notice li:hover{  /*공지사항 리스트 영역에 마우스를 올릴 때 스타일*/
+	font-weight:bold;
+}
+.gallery li{  /*갤러리 콘텐츠 영역 스타일*/
+	float:left;
+	margin-top:15px;
+	margin-left:5px;
+}
+.gallery img{ /*갤러리 콘텐츠 이미지 영역 스타일*/
+	height:100px;
+	width:100px;
+	padding:10px;
+}
+.gallery li:hover{ /*갤러리 콘텐츠에 마우스를 올릴 때 스타일*/
+	opacity:0.5;
+}
+.otherwrap{        /*banner와 shortcut 묶어줌*/
+	float:right;
+	height:200px;  /*우측 콘텐츠들(배너,바로가기) 높이*/
+	width:800px;   /*우측 콘텐츠들(배너,바로가기) 너비*/
+}
+.banner{
+	float:left;
+	height:180px;  /*배너 영역 높이*/
+	width:395px;   /*배너 영역 너비*/
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.banner img{       /*배너 이미지 스타일*/
+	float:left;
+	height:180px;
+	width:395px;
+}
+.bntext{           /*배너 글자 스타일*/
+	float:left;
+	height:40px;
+	width:300px;
+	position:absolute;
+	text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+	line-height:40px;
+	background-color:rgba(40,40,40,0.3);
+	left:450px;
+	top:80px;
+}
+.banner img:hover{ /*배너 이미지에 마우스를 올릴 때 스타일*/
+	opacity:0.5;
+}
+.shortcut{
+	float:right;
+	height:180px;; /*바로가기 영역 높이*/
+	width:400px;   /*바로가기 영역 너비*/
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.shortcut img{     /*바로가기 이미지 스타일*/
+	float:right;
+	height:180px;
+	width:400px;
+}
+.sctext{           /*바로가기 글자 스타일*/
+	float:right;
+	height:40px;
+    width:300px;
+    position:absolute;
+    text-align:center;
+	color:#ffffff;
+	font-weight:bold;
+    line-height:40px;
+    background-color:rgba(40,40,40,0.3);
+	left:850px;
+	top:80px;
+}
+.shortcut img:hover{    /*바로가기 글자에 마우스를 올릴 때 스타일*/
+	opacity:0.5;
+}
+#modal{                 /*레이어 팝업창 영역 스타일*/
+	width:100%;
+	height:100%;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:rgba(0,0,0, 0.6); 
+	z-index:1; 
+	display:none;
+}
+#modal.active{
+	display:block;
+}
+.modal_up{
+	width:500px;
+	height:400px;
+	position:fixed;
+	left:40%; 
+	top:30%; 
+	border: 3px solid;
+	border-color:#5e1742;
+	background-color:#ffffff;
+}
+.uptitle{
+	margin-top:30px;
+	text-align:center; 
+	line-height:16px; 
+	font-size:20px; 
+	font-weight:bold;
+}
+.upbody{
+	padding:30px;
+	text-align:center;
+	font-size:16px;
+	line-height:30px; 
+}
+.btn{
+	height:20px;
+	width:80px; 
+	cursor:pointer;
+	display:block;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius:3px;
+	background:#5e1742;
+	position:absolute; 
+	right:10px;
+	bottom:10px;
+} 
+footer{
+	height:100px;  /*하단 높이*/
+	width:1200px;  /*하단 너비*/
+	background-color:#5e1742;
+}
+.btlogo{         
+	float:left;
+	height:100px; /*로고 영역 높이*/
+	width:250px;  /*로고 영역 너비*/
+}
+.btlogo img{
+	float:left;
+	height:50x;
+	width:200px;
+	margin-top:25px;
+	margin-left:15px;
+}
+.copy{
+	float:left;
+	height:100px; /*Copyright 높이*/
+	width:600px;  /*Copyright 너비*/
+	color:#ffffff;
+    text-align:center;
+    font-size:16px;
+    line-height:100px;
+}
+.sns{
+	float:right;
+	height:100px; /*sns 높이*/
+	width:300px;  /*sns 너비*/
+}
+.sns ul{        
+	float:right;
+	margin-right:20px;
+	margin-top:25px;
+}
+.sns li{        
+    display:inline-block;
+}
+.sns img{      
+	height:45px;
+	width:45x;
+	padding:5px;
+}
+.sns img:hover{
+	opacity:0.5;
+}
+
