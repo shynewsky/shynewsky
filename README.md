@@ -70,7 +70,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
       <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_mrpcpicker1.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
     <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
     </th>
     <th>
-    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025 진행중)</a>
+    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
     </th>
   </tr>
   <tr>
