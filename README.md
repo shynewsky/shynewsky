@@ -67,18 +67,18 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="" alt="" style="max-width:100%; max-height:100%; display:block;">
+      <img src="#" alt="" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="" alt="" style="max-width:100%; max-height:100%; display:block;">
+      <img src="#" alt="" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
     <th>
-    <a href="https://github.com/MrPCPicker/Mr.PCPicker">공통프로젝트 (2026 진행중)</a>
+    <a href="#">공통프로젝트 (2026 진행중)</a>
     </th>
     <th>
-    <a href="">-</a>
+    <a href="#">-</a>
     </th>
   </tr>
   <tr>
