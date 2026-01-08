@@ -54,11 +54,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 ---
 
 ## 🛠 Tech Stack
-- <strong>Language</strong> : Python, C, C++, C#
-- <strong>Web</strong> : HTML, CSS, Bootstrap, Django, JS, Vue
-- <strong>Database</strong> : SQL
-- <strong>AI</strong> : Numpy, Pandas, Seaborn, Matplotlib, Jupyter, PyTorch
-- <strong>Game Engine</strong> : Unity3D, UnrealEngine
+- <strong>Language</strong> : Python, C, C++, C#, Java, Dart
+- <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue, Flutter
+- <strong>Backend</strong> : SQL, Django, Sqlite
+- <strong>AI</strong> : Pytorch, Numpy, Pandas, Seaborn, Matplotlib, Jupyter
+- <strong>Game Engine</strong> : Unity, Unreal
 
 ---
 
@@ -67,28 +67,59 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
+      <!-- <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;"> -->
     </td>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
+      <!-- <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;"> -->
+    </td>
+  </tr>
+  <tr>
+    <th>
+    <a href="https://github.com/MrPCPicker/Mr.PCPicker">공통프로젝트 (2026 진행중)</a>
+    </th>
+    <th>
+    <!-- <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a> -->
+    </th>
+  </tr>
+  <tr>
+    <th>
+      6인 팀 프로젝트<br>
+      RaspberryPi4, Spring, Flutter
+    </th>
+    <!-- <th>      
+      4인 팀 프로젝트<br>
+      Jupyter, Pytorch, Kaggle 활용
+    </th> -->
+  </tr>
+</table>
+
+
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
+      <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
+    </td>
   </tr>
   <tr>
-    <th>
-    <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
-    </th>
     <th>
     <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
     </th>
+    <th>
+    <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
+    </th>
   </tr>
   <tr>
-    <th>      
-      4인 팀 프로젝트<br>
-      Jupyter Notebook, Kaggle 활용
-    </th>
     <th>
       2인 팀 프로젝트<br>
-      Django REST API, Vue 활용
+      DRF, Vue, GMS API, Sqlite
+    </th>
+    <th>      
+      4인 팀 프로젝트<br>
+      Jupyter, Pytorch, Kaggle
     </th>
   </tr>
 </table>
@@ -113,11 +144,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>      
       3인 팀 프로젝트<br>
-      C++, DirectX9 활용
+      C++, DirectX9
     </th>
     <th>
       1인 개인 프로젝트<br>
-      C++, WindowAPI 활용
+      C++, WindowAPI
     </th>
   </tr>
 </table>
