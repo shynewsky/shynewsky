@@ -67,10 +67,10 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <!-- <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;"> -->
+      <img src="" alt="" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <!-- <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;"> -->
+      <img src="" alt="" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
     <a href="https://github.com/MrPCPicker/Mr.PCPicker">공통프로젝트 (2026 진행중)</a>
     </th>
     <th>
-    <!-- <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a> -->
+    <a href="">-</a>
     </th>
   </tr>
   <tr>
@@ -86,10 +86,10 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
       6인 팀 프로젝트<br>
       RaspberryPi4, Spring, Flutter
     </th>
-    <!-- <th>      
-      4인 팀 프로젝트<br>
-      Jupyter, Pytorch, Kaggle 활용
-    </th> -->
+    <th>      
+      -<br>
+      -
+    </th>
   </tr>
 </table>
 
