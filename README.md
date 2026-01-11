@@ -84,7 +84,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>
       6인 팀 프로젝트<br>
-      RaspberryPi4, Spring, Flutter
+      RaspberryPi4, Spring, Flutter, Jira, Gitmoji
     </th>
     <th>      
       -<br>
