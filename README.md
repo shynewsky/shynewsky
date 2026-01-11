@@ -201,7 +201,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <a href="https://github.com/shynewsky/">
@@ -212,7 +212,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 </a>
 </div>
 
----  -->
+--- 
 
 ## 🔣 Problem Solving
 
