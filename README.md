@@ -84,7 +84,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>
       6인 팀 프로젝트<br>
-      RaspberryPi4, Spring, Flutter, Jira, Gitmoji
+      RaspberryPi4, Spring, Flutter / Jira, Gitmoji
     </th>
     <th>      
       -<br>
@@ -115,11 +115,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>
       2인 팀 프로젝트<br>
-      DRF, Vue, GMS, Sqlite
+      DRF, Vue, GMS, Sqlite / Notion, Figma
     </th>
     <th>      
       4인 팀 프로젝트<br>
-      Jupyter, Pytorch, Kaggle
+      Jupyter, Pytorch, Kaggle / Mattermost
     </th>
   </tr>
 </table>
