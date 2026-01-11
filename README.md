@@ -115,7 +115,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>
       2인 팀 프로젝트<br>
-      DRF, Vue, GMS API, Sqlite
+      DRF, Vue, GMS, Sqlite
     </th>
     <th>      
       4인 팀 프로젝트<br>
