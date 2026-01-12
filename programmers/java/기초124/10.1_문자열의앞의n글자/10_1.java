@@ -1,6 +1,9 @@
 class Solution {
-    public int solution(int a, int b, int c, int d) {
-        int answer = 0;
-        return answer;
+    public String solution(String my_string, int n) {
+        // String answer = "";
+        // return answer;
+        //////////////////////////////////////
+        return my_string.substring(0, n);
+        //////////////////////////////////////
     }
 }

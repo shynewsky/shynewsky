@@ -1,6 +1,14 @@
 class Solution {
-    public int solution(int a, int b, int c, int d) {
-        int answer = 0;
-        return answer;
+    public int solution(int[] arr, int idx) {
+        // int answer = 0;
+        // return answer;
+        //////////////////////////////////////
+        for (int i = idx; i < arr.length; i++) {
+            if (arr[i] == 1) {
+                return i;
+            }
+        }
+        return -1;
+        //////////////////////////////////////
     }
 }
