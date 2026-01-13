@@ -13,7 +13,3 @@ def recur(n):
 answer = recur(N)
 print(answer)
 
-
-
-
-
