@@ -1,7 +1,5 @@
 class Solution {
     public int[] solution(int[] arr) {
-        // int[] answer = {};
-        // return answer;
         int[] answer = new int[arr.length];
 
         for (int i = 0; i < arr.length; i++) {
@@ -15,6 +13,7 @@ class Solution {
                 answer[i] = x;
             }
         }
+
         return answer;
     }
 }
