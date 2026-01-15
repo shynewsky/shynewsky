@@ -1,17 +1,14 @@
 class Solution {
-    public int[][] solution(int[][] arr) {
-        // int[][] answer = {};
-        int row = arr.length;
-        int col = arr[0].length;
-        int size = Math.max(row, col);
-        int[][] answer = new int[size][size];
+    public int solution(int[][] arr) {
+        // int answer = 0;
+        // return answer;
+        int n = arr.length;
 
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                answer[i][j] = arr[i][j];
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) { 
+                if (arr[i][j] != arr[j][i]) return 0;
             }
         }
-
-        return answer;
+        return 1;
     }
 }
