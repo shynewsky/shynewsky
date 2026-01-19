@@ -15,13 +15,13 @@ def f(cnt):
         return
 
     for i in range(1, N1):
-        if used[i] == 1:
+        if visited[i] == 1:
             continue
-        used[i] = 1
+        visited[i] = 1
         path.append(i)
         f(cnt+1)
         path.pop()
-        used[i] = 0
+        visited[i] = 0
 
 # 변수 ------------------------------
 N, M = map(int, input().split())
@@ -29,7 +29,7 @@ N1 = N+1 # lookup 비용 감소
 
 # 코드 ------------------------------
 path = []
-used = [0] * N1
+visited = [0] * N1
 f(0)
 
 # 시간 ------------------------------
