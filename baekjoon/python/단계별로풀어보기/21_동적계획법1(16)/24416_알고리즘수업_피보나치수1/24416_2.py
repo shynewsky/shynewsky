@@ -27,15 +27,32 @@ def f2(n):
     return dp[n]
 
 # ------------------------------------
+
+def f1_count(n):
+    if n == 1 or n == 2:
+        return 1
+    a, b = 1, 1
+    for _ in range(3, N1):
+        a, b = b, a+b
+    return b
+
+def f2_count(n):
+    return n-2
+
+# ------------------------------------
 # 입출력
 N = int(input())
 N1 = N+1
 
-f1(N)
-f2(N)
+# 풀이
+# f1(N)
+# f2(N)
+# write(str(cnt1) + '\n')
+# write(str(cnt2) + '\n')
 
-write(str(cnt1) + '\n')
-write(str(cnt2) + '\n')
+# 카운트
+write(str(f1_count(N)) + '\n')
+write(str(f2_count(N)) + '\n')
 
 # 타이머
 end = time.time()
