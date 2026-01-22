@@ -8,28 +8,25 @@ input = sys.stdin.readline
 write = sys.stdout.write
 # --------------------------------
 
-def f(cnt, last, cost):
-    global max_cost
-    if cnt == N:
-        if max_cost < cost:
-            max_cost = cost
-        return
-
-    for i in range(cnt+1):
-        if not (i == last or i == last+1):
-            continue
-        f(cnt+1, i, cost+costs[cnt][i])
-
-# --------------------------------
 # 입출력
 N = int(input())
 costs = [list(map(int, input().split())) for _ in range(N)]
 
-# 코드
-path = []
-max_cost = 0
-f(0, 0, 0)
-print(max_cost)
+# 동적계획법
+
+dp = [-10**18] * N
+dp[0] = costs[0][0]
+
+for i in range(1, N):
+    temp_dp = [-10**18] * N
+    for j in range(i+1):
+        best = dp[j]
+        if j-1 >= 0:
+            best = max(best, dp[j-1])
+        temp_dp[j] = best + costs[i][j]
+    dp = temp_dp
+
+print(max(dp[:N]))
 
 # --------------------------------
 # 타이머

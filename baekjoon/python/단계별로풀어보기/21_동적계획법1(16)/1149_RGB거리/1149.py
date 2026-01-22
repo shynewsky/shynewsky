@@ -11,34 +11,27 @@ from pprint import pprint
 
 # 백트래킹
 def f(cnt, color, price):
-    global min_price, count
-
-    if cnt == N: # 종료조건
-        if min_price > price : # 최소값 갱신
+    global min_price
+    if cnt == N:
+        if min_price > price:
             min_price = price
-        count += 1
-        print(min_price)
         return
-
-    for i in range(3): # 빨초파
-        if i == color: # 가지치기
+    for i in range(3):
+        if i == color:
             continue
-        # if price+prices[cnt][i] > min_price: # 가지치기
-        #     continue
+        if min_price < price+prices[cnt][i]:
+            continue
         f(cnt+1, i, price+prices[cnt][i])
-
 
 # ---------------------------------
 # 입출력
 N = int(input())
 prices = [list(map(int, input().split())) for _ in range(N)]
+
+# 코드
 min_price = 1000 * N
-count = 0
-pprint(prices)
-
-f(0, 0, 0)
-
-print(count)
+f(0, -1, 0)
+print(min_price)
 
 # 타이머
 end = time.time()
