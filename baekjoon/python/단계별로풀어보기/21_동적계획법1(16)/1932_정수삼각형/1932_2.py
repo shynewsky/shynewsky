@@ -14,9 +14,11 @@ costs = [list(map(int, input().split())) for _ in range(N)]
 
 # 동적계획법
 
+# 1) 최솟값을 채운 배열 만들고, 첫 값만 먼저 채우기
 dp = [-10**18] * N
 dp[0] = costs[0][0]
 
+# 2)
 for i in range(1, N):
     temp_dp = [-10**18] * N
     for j in range(i+1):

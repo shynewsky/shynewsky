@@ -54,11 +54,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 ---
 
 ## 🛠 Tech Stack
-- <strong>Language</strong> : Python, C, C++, C#, Java, Dart
-- <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue, Flutter
-- <strong>Backend</strong> : SQL, Django, Sqlite
+- <strong>Language</strong> : Python, C, C++, C#, Java
+- <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin
+- <strong>Backend</strong> : SQL, Django, Sqlite, Springboot
 - <strong>AI</strong> : Pytorch, Numpy, Pandas, Seaborn, Matplotlib, Jupyter
-- <strong>Game Engine</strong> : Unity, Unreal
+- <strong>Game Engine</strong> : Unity, UnrealEngine
 
 ---
 
