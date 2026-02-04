@@ -93,6 +93,8 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   </tr>
 </table>
 
+---
+
 ## 📌 그 외 프로젝트
 
 <table border="1" cellpadding="5" cellspacing="0">
