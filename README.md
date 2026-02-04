@@ -67,10 +67,10 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card6_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card5_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -96,10 +96,10 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_ssafyrace.png" alt="SSAFY Race" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card4_ssafyrace.png" alt="SSAFY Race" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card3_aichallenge.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -125,10 +125,10 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card2_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card1_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
