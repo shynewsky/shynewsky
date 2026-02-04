@@ -87,7 +87,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
       Jetson, TensorRT, SpringBoot, Kotlin
     </th>
     <th>
-      2인 팀 프로젝트<br>
+      3인 팀 프로젝트<br>
       Django REST API, Vue.js, GMS, Sqlite
     </th>
   </tr>
