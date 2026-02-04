@@ -67,38 +67,36 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="#" alt="" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src="#" alt="" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
     <th>
-    <a href="#">공통프로젝트 (2026 진행중)</a>
+    <a href="#">지하철 뚫어 DDULO (2026)</a>
     </th>
     <th>
-    <a href="#">-</a>
+    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
     </th>
   </tr>
   <tr>
     <th>
       6인 팀 프로젝트<br>
-      [Java] RaspberryPi4, Spring, Kotlin, Jira
+      Jetson, TensorRT, SpringBoot, Kotlin
     </th>
-    <th>      
-      -<br>
-      -
+    <th>
+      2인 팀 프로젝트<br>
+      Django REST API, Vue.js, GMS, Sqlite
     </th>
   </tr>
 </table>
 
-
-
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card_ssafyrace.png" alt="SSAFY Race" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card_aichallenge1.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
@@ -106,7 +104,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   </tr>
   <tr>
     <th>
-    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
+    <a href="https://github.com/No-but-why-not-this/SSAFY_RACE">SSAFY Race (2025)</a>
     </th>
     <th>
     <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
@@ -115,11 +113,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>
       2인 팀 프로젝트<br>
-      [Python, JS] DRF, Vue, GMS, Sqlite
+      Python, Anaconda, Codex
     </th>
     <th>      
       4인 팀 프로젝트<br>
-      [Python] Jupyter, Pytorch, Kaggle
+      Python, Pytorch, Kaggle
     </th>
   </tr>
 </table>
@@ -144,11 +142,11 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
   <tr>
     <th>      
       3인 팀 프로젝트<br>
-      [C++] DirectX9
+      C++, DirectX9
     </th>
     <th>
       1인 개인 프로젝트<br>
-      [C++] WindowAPI
+      C++, WindowAPI
     </th>
   </tr>
 </table>
