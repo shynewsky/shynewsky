@@ -1,39 +1,46 @@
 import time
 start = time.time()
+from pprint import pprint
 # --------------------
 import sys
 sys.stdin = open('input.txt')
 input = sys.stdin.readline
 write = sys.stdout.write
-# --------------------
-from pprint import pprint
-################################
-# import sys
-# input = sys.stdin.readline
-#
-# MAX_N = 246912
-#
-# # 1. 에라토스테네스의 체
-# is_prime = [True] * (MAX_N + 1)
-# is_prime[0] = is_prime[1] = False
-#
-# for i in range(2, int(MAX_N ** 0.5) + 1):
-#     if is_prime[i]:
-#         for j in range(i * i, MAX_N + 1, i):
-#             is_prime[j] = False
-#
-# # 2. 소수 개수 누적합
-# prefix = [0] * (MAX_N + 1)
-# for i in range(1, MAX_N + 1):
-#     prefix[i] = prefix[i - 1] + (1 if is_prime[i] else 0)
-#
-# # 3. 입력 처리
-# while True:
-#     n = int(input())
-#     if n == 0:
-#         break
-#     print(prefix[2 * n] - prefix[n])
 
-################################
+# 1. 소수표(배열) 만들기
+"""
+n < 소수 <= 2n 인데
+1 <= n <= 123456 이므로
+"""
+MAX = 246912
+prime = [True] * (MAX + 1)  # 일단 모든 수는 소수라고 가정
+prime[0] = prime[1] = False # 0과 1은 소수가 아니다
+
+for i in range(2, int(MAX**0.5)+1): # 5*5=25 처럼 최대약수는 제곱근 이하이다
+
+    if prime[i]: # 소수라고 가정하고 있을때
+
+        for j in range(i*i, MAX+1, i): # i보다 작은 배수들은 이미 이전에 지워짐
+            prime[j] = False # 소수로 가정한 수의 배수들은 소수가 아니므로 지워나간다
+
+# 2. 누적합(배열)
+"""
+- 어떤 “구간 안에 있는 개수”를 계속 물어본다
+- prefix[i] = i 이하의 소수 개수
+"""
+prefix = [0] * (MAX+1) # 0열은 패딩
+
+for i in range(1, MAX+1): # 1열부터
+    prefix[i] = prefix[i-1] + (1 if prime[i] else 0)
+
+# 0. 입력
+
+while True:
+    n = int(input())
+    if n == 0:
+        break
+    write(str(prefix[n*2] - prefix[n]) + '\n')
+
+# --------------------
 end = time.time()
-write(str(end-start) + '초')
+write('\n'+str(end-start)+'초')
