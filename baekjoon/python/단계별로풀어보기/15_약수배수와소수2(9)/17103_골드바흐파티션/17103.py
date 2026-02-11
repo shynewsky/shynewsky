@@ -5,7 +5,7 @@ from pprint import pprint
 import sys
 sys.stdin = open('input.txt')
 input = sys.stdin.readline
-write = sys.stdout.write
+# write = sys.stdout.write
 
 # 1. 소수표(배열) 만들기 - 에레스토테네스의 체
 MAX = 1000000
@@ -29,8 +29,8 @@ for _ in range(T):
         if prime[p] and prime[n-p]: # p와 n-p=q 가 모두 소수이면
             cnt += 1
 
-    write(str(cnt)+'\n')
+    print(cnt)
 
 # ----------------------------
 end = time.time()
-write(str(end-start)+'초')
+# write(str(end-start)+'초')
