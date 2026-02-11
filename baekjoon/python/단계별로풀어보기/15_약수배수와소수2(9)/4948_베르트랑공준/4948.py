@@ -1,13 +1,12 @@
 import time
 start = time.time()
+from pprint import pprint
 # --------------------
 import sys
 sys.stdin = open('input.txt')
 input = sys.stdin.readline
 write = sys.stdout.write
-# --------------------
-from pprint import pprint
-################################
+
 # 함수
 def prime(n):
     for i in range(2, n):
@@ -28,6 +27,6 @@ while True: # 무한 입력받기
 
     write(str(cnt) + '\n')
 
-################################
+# --------------------
 end = time.time()
 write(str(end-start) + '초')
