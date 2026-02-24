@@ -158,13 +158,15 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 
 ---
 
-## 🎓 Education
+## 📖 Education
+
+> School
 
 - 이화여자대학교 융합콘텐츠학과 우등 졸업 (2025)
 - 한가람고등학교 고급생명·고급영어 우등생 (2018)
 - 국제 바칼로레아(IB) 학교 수학·과학 우등생 (2009-2014)
 
-## 📖 Training
+> Academy
 
 - 삼성청년SW·AI아카데미 Python 트랙 이수 (2025)
 - 쥬신아카데미 C++·DirectX 과정 수강 (2024)
@@ -177,18 +179,18 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 - 시온네트웍 기획개발부 인턴 (2022.6.~2022.8)
 - 이화여대 생명과학대학원 연구실 영상편집부 단기계약직 (2021.10~2021.10)
 
-## 🏷️ Interested in
+## 🏷️ Interest
 
-- <strong>AI/IOT</strong> : SSAFY AIoT·자율주행(IOT) 트랙 이수
+- <strong>AI/IOT</strong> : SSAFY AIoT·IOT(자율주행) 트랙 이수 (2026)
 - <strong>인터렉션/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
 - <strong>4차/5차산업</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
-- <strong>생명과학/의학</strong> : 한가람고 생I, 생II, 고급생명 수강 (2017)
+- <strong>생명과학/의학</strong> : 한가람고 생I·생II·고급생명 이수 (2017)
 
 ---
 
 ## 💻 Related Projects
 
-교내 프로젝트
+> 교내 프로젝트
 
 - 융합콘텐츠졸업논문 (2023) - `이앙:수선을 꽃피우다`
 - 콘텐츠시스템프로젝트 (2022) - `내가 크툴루의 이상형이라니, 말도 안되잖아?!`
@@ -196,7 +198,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 
 <br>
 
-교외 프로젝트
+> 교외 프로젝트
 
 - Tumblbug 펀딩 및 STEAM 출시 (2023) - `물멍키트`
 - 넥슨 슈퍼해커톤 참여 (2022) - `빙의:육체쟁탈전`
@@ -207,7 +209,9 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 ---
 
 
-## 🪪 Certificates
+## 🪪 Abilities
+
+> 직무 역량
 
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
 - <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
@@ -216,9 +220,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 - <strong>2022.08.27.</strong>ㅣMOS Master
 - <strong>2020.07.18.</strong>ㅣACA Specialist
 
----
-
-## 🆎 Foreign Language
+> 외국어 역량
 
 - <strong>2024.11.30.</strong>ㅣOPIc English IH
 - <strong>2024.11.24.</strong>ㅣTOEIC (950/990)
@@ -226,7 +228,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 - <strong>2022.01.13.</strong>ㅣJLPT N2 (145/180)
 - <strong>2019.08.03.</strong>ㅣTOEFL (107/120)
 
-## 🆎 Foreign Experience
+> 해외 경험
 
 - <strong>2020.1.12.-2020.1.21.</strong> (싱가포르) 난양대학교 교류학생
 - <strong>2009.6.20.-2014.2.24.</strong> (브라질) 국제 바칼로레아 학교 졸업
@@ -246,7 +248,9 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 
 ---  -->
 
-## 🔣 Problem Solving
+## 🔣 Algorithm Study Club
+
+> 2025.8.5.-Present
 
 <div align="center">
 <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
