@@ -176,7 +176,7 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 
 > Academy
 
-- 삼성청년SW·AI아카데미 Python 트랙 이수 (2025)
+- 삼성청년SW·AI아카데미 Python·Web 과정 수강 (2025)
 - 쥬신아카데미 C++·DirectX 과정 수강 (2024)
 
 ---
@@ -184,8 +184,8 @@ AI · IOT 를 다루는 4차 산업 서비스 기획 ● AR · VR 를 활용한 
 ## 🏷️ Interest
 
 - <strong>EMB/ROBO</strong> : SSAFY AIoT·IOT(자율주행) 트랙 이수 (2026)
-- <strong>인터렉션/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
-- <strong>4차/5차산업</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
+- <strong>HCI/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
+- <strong>ICT/DX</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
 - <strong>생명과학/의학</strong> : 한가람고 생I·생II·고급생명 이수 (2017)
 
 ---
