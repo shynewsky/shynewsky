@@ -189,6 +189,15 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
+## 🏆 Awards
+
+- <strong>2026.02.23.</strong>ㅣSSAFY 공통프로젝트 우수상 (서울 2반 3위)
+- <strong>2026.01.09.</strong>ㅣSSAFY RACE 베이직맵 1위, 스피드맵 1위
+- <strong>2025.11.12.</strong>ㅣSSAFY 이달의 동료 (서울 4반 10월)
+- <strong>2025.07.30.</strong>ㅣSSAFY 이달의 동료 (서울 4반 7월)
+
+---
+
 ## 💻 Related Activities
 
 > 교과 프로젝트
