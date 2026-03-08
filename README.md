@@ -39,6 +39,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=0053a1" />
 </div> -->
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)](https://github.com/shynewsky)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)](https://mousy-newsboy-6d0.notion.site/Saeha-Yang-2bdded4090b1806c8759ec5d323113ca)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge)](https://shynewsky.tistory.com/)
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge)](https://www.behance.net/shynewsky)
 
 # 체계적으로 분석하고 설계하는<br>임베디드·웹풀스택 엔지니어【 양새하 】입니다.
 
