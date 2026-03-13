@@ -120,7 +120,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-      2인 팀 프로젝트<br>
+      3인 팀 프로젝트<br>
       Python, Anaconda, Codex
     </th>
     <th>      
