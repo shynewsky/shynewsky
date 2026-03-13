@@ -91,7 +91,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
       Jetson, TensorRT, SpringBoot, Kotlin
     </th>
     <th>
-      3인 팀 프로젝트<br>
+      2인 팀 프로젝트<br>
       Django REST API, Vue.js, GMS, Sqlite
     </th>
   </tr>
