@@ -60,9 +60,11 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 - <strong>Language</strong> : Python, C, C++, C#, Java
 - <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin
-- <strong>Backend</strong> : SQL, Django, Sqlite, Springboot
-- <strong>AI</strong> : Pytorch, Numpy, Pandas, Seaborn, Matplotlib, Jupyter
-- <strong>Game Engine</strong> : Unity, UnrealEngine
+- <strong>Backend</strong> : Django, Springboot, FastAPI
+- <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql
+- <strong>AI</strong> : Jupyter, Pytorch, TensorRT
+- <strong>OS</strong> : Window, Ubuntu(Linux)
+- <strong>Simulator</strong> : Unity, UnrealEngine, Gazebo
 
 ---
 
@@ -77,7 +79,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">미정(2026)</a>
+    <a href="#">(미정)(2026)</a>
     </th>
     <th>
     <a href="#">수확행(2026)</a>
@@ -106,7 +108,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">지하철 뚫어 DDULO (2026)</a>
+    <a href="#">뚫어 DDULO (2026)</a>
     </th>
     <th>
     <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
