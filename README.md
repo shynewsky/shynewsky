@@ -73,8 +73,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
+      <img src=".assets/card8_.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
+      <img src=".assets/card7_suhwak.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
@@ -88,7 +90,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   <tr>
     <th>
       6인 팀 프로젝트<br>
-      Springboot, JSP, Jenkins, AWS EC2
+      Springboot, JSP, Jenkins, AWS EC2, Stitch
     </th>
     <th>
       5인 팀 프로젝트<br>
