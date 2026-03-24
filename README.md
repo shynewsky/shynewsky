@@ -71,6 +71,33 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
+    </td>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
+    </td>
+  </tr>
+  <tr>
+    <th>
+    <a href="#">미정(2026)</a>
+    </th>
+    <th>
+    <a href="#">수확행(2026)</a>
+    </th>
+  </tr>
+  <tr>
+    <th>
+      6인 팀 프로젝트<br>
+      Springboot, JSP, Jenkins, AWS EC2
+    </th>
+    <th>
+      5인 팀 프로젝트<br>
+      ROS2, Gazebo, FastAPI, Postgresql, React
+    </th>
+  </tr>
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card6_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
@@ -88,7 +115,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   <tr>
     <th>
       5인 팀 프로젝트<br>
-      Jetson, TensorRT, SpringBoot, Kotlin
+      Jetson, TensorRT, YOLOv8, MQTT, Kotlin
     </th>
     <th>
       2인 팀 프로젝트<br>
@@ -220,7 +247,8 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - 넥슨 슈퍼해커톤 참여 (2022) - `빙의:육체쟁탈전`
 - 스마일게이트 슬기로운 데모생활 (2022) - `카투바의 밀렵꾼`, `스태퍼케이스` 베스트테스터
 - 스마일게이트 온라인게임잼 참여 (2022) - `봄날의프로포즈`, `힛더그린`
-- 전국게임제작동아리 GameMakers 활동 (2022) - `미자르와 알고르의 사건수첩`
+- 전국게임제작동아리 GameMakers 6기 (2022) - `미자르와 알고르의 사건수첩`
+- 대학연합게임제작동아리 Bridge 8기 (2020) - `할망`
 
 ---
 
