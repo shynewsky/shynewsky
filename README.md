@@ -73,10 +73,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card8_.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card8_.png" alt="#" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card7_suhwak.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card7_suhwak.png" alt="수확행" style="max-width:100%; max-height:100%; display:block;">
     </td>
   </tr>
   <tr>
