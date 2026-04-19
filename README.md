@@ -228,7 +228,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 </a>
 </div>
 
----  -->
+---  
 
 ## ⌨️ Algorithm Study
 
@@ -236,7 +236,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
 </div>
 
---- 
+--- -->
 
 ## 💻 Other Projects
 
