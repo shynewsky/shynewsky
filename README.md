@@ -130,65 +130,12 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
-## 🗂️ 관련 프로젝트
+## 🗂️ 그 외 프로젝트
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <tr>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card4_ssafyrace.png" alt="SSAFY Race" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card3_aichallenge.png" alt="AI Challenge" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-  </tr>
-  <tr>
-    <th>
-    <a href="https://github.com/No-but-why-not-this/SSAFY_RACE">SSAFY Race (2025)</a>
-    </th>
-    <th>
-    <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025)</a>
-    </th>
-  </tr>
-  <tr>
-    <th>
-      3인 팀 프로젝트<br>
-      Python, Anaconda, Codex
-    </th>
-    <th>      
-      4인 팀 프로젝트<br>
-      Python, Pytorch, Kaggle
-    </th>
-  </tr>
-</table>
-
-<table border="1" cellpadding="5" cellspacing="0">
-  <tr>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card2_riffleeffect.png" alt="Riffle Effect" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card1_maplestory.png" alt="Maplestory" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-  </tr>
-  <tr>
-    <th>
-    <a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect (2024)</a>
-    </th>
-    <th>
-    <a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory (2024)</a>
-    </th>
-  </tr>
-  <tr>
-    <th>      
-      3인 팀 프로젝트<br>
-      C++, DirectX9
-    </th>
-    <th>
-      1인 개인 프로젝트<br>
-      C++, WindowAPI
-    </th>
-  </tr>
-</table>
+- <a href="https://github.com/No-but-why-not-this/SSAFY_RACE">SSAFY Race (2025/3인) </a> - Python, Anaconda, Codex
+- <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025/4인)</a> - Python, Pytorch, Kaggle
+- <a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect (2024/3인)</a> - C++, DirectX9
+- <a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory (2024/1인)</a> - C++, WindowAPI
 
 ---
 
@@ -232,12 +179,13 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 > 특이사항
 
-- <strong>2026.04.15.</strnog>ㅣSSAFY 베스트 맴버 (서울 6반 4월)
+- <strong>2026.04.15.</strong>ㅣSSAFY 베스트 맴버 (서울 6반 4월)
 - <strong>2026.01.09.</strong>ㅣSSAFY RACE 이벤트맵·베이직맵·스피드맵 1위
 - <strong>2025.11.12.</strong>ㅣSSAFY 이달의 동료 (서울 4반 10월)
 - <strong>2025.07.30.</strong>ㅣSSAFY 이달의 동료 (서울 4반 7월)
-- <strong>2024.12.06.</strong>ㅣMapleCon 서포터즈 브이로그 제작
+- <strong>2024.12.06.</strong>ㅣMapleCon 홍보 서포터즈 선정
 - <strong>2022.11.16.</strong>ㅣ넥슨 슈퍼해커톤 브이로그 부문 2등
+- <strong>2020.01.25.</strong>ㅣ신산업융합대학 야구점퍼 디자인 우승
 
 ---
 
@@ -280,7 +228,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 </a>
 </div>
 
----  
+---  -->
 
 ## ⌨️ Algorithm Study
 
@@ -288,7 +236,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
 </div>
 
---- -->
+--- 
 
 ## 💻 Other Projects
 
