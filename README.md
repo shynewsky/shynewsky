@@ -85,19 +85,17 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">Dayori(2026)</a>
+    <a href="#">Dayori(2026/6인)</a>
     </th>
     <th>
-    <a href="#">수확행(2026)</a>
+    <a href="#">수확행(2026/5인)</a>
     </th>
   </tr>
   <tr>
     <th>
-      6인 팀 프로젝트<br>
       Springboot, Jenkins, AWS EC2, Flutter
     </th>
     <th>
-      5인 팀 프로젝트<br>
       ROS2, Gazebo, FastAPI, Postgresql, React
     </th>
   </tr>
@@ -114,19 +112,17 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">뚫어 DDULO (2026)</a>
+    <a href="#">뚫어 DDULO (2026/5인)</a>
     </th>
     <th>
-    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025)</a>
+    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025/2인)</a>
     </th>
   </tr>
   <tr>
     <th>
-      5인 팀 프로젝트<br>
       Jetson, TensorRT, YOLOv8, MQTT, Kotlin
     </th>
     <th>
-      2인 팀 프로젝트<br>
       Django REST API, Vue.js, GMS, Sqlite
     </th>
   </tr>
