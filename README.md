@@ -44,7 +44,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge)](https://shynewsky.tistory.com/)
 [![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge)](https://www.behance.net/shynewsky)
 
-# 체계적으로 분석하고 설계하는<br>SW·AI 엔지니어【 양새하 】입니다.
+# 어려울수록 더 깊고 집요하게 파고드는<br>〔 양새하 〕입니다.
 
 융합콘텐츠학과에서 **첨단기술 산업** 과 **Human-Computer Interaction(HCI)** 에 대한 관심을 바탕으로<br>40여 개의 기획·디자인 프로젝트를 수행하며, **실제로 동작하는 시스템을 구현하고 싶다는 목표** 가 생겼고,<br>쥬신아카데미와 삼성청년SW·AI아카데미에 입과하여 본격적으로 개발 역량을 쌓았습니다.
 
