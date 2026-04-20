@@ -44,7 +44,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge)](https://shynewsky.tistory.com/)
 [![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge)](https://www.behance.net/shynewsky)
 
-# 어려울수록 더 깊고 집요하게 파고드는「양새하」입니다.
+# 어려운 문제에 더 깊고 집요하게 파고드는「양새하」입니다.
 
 ### 다양한 선택지 속에서 프로젝트에 맞는 방향을 판단하고, <br>기획 의도를 구현까지 연결하는 개발자로 성장하고 있습니다.
 
