@@ -61,7 +61,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 ## 🛠 Tech Stack
 
 - <strong>Language</strong> : Python, C, C++, C#, Java
-- <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin
+- <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin, React, Flutter
 - <strong>Backend</strong> : Django, Springboot, FastAPI
 - <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql
 - <strong>AI</strong> : Jupyter, Pytorch, TensorRT
