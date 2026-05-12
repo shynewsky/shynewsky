@@ -75,7 +75,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card8_dayori.png" alt="Dayori" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card8_dayori.png" alt="데이오리" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card7_suhwak.png" alt="수확행" style="max-width:100%; max-height:100%; display:block;">
@@ -83,7 +83,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">Dayori (2026/6인)</a>
+    <a href="#">데이오리 (2026/6인)</a>
     </th>
     <th>
     <a href="#">수확행 (2026/5인)</a>
@@ -102,7 +102,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card6_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card6_ddulo.png" alt="뚫어" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card5_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
@@ -110,7 +110,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">뚫어 DDULO (2026/5인)</a>
+    <a href="#">뚫어 (2026/5인)</a>
     </th>
     <th>
     <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025/2인)</a>
