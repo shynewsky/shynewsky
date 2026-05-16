@@ -63,7 +63,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>Language</strong> : Python, C, C++, C#, Java
 - <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin, React, Flutter
 - <strong>Backend</strong> : Django, Springboot, FastAPI
-- <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql
+- <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql, MongoDB
 - <strong>AI</strong> : Jupyter, Pytorch, TensorRT
 - <strong>OS</strong> : Window, Ubuntu(Linux)
 - <strong>Simulator</strong> : Unity, UnrealEngine, Gazebo
@@ -139,7 +139,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ## 💼 Work Experience
 
-> 정규직
+> 경력사항
 
 - 엔도로보틱스 임베디드팀 연구원 (2026.5.-)
 
@@ -164,8 +164,8 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 > 교육이수
 
-- 삼성청년SW·AI아카데미 Python·Web 과정 수강 (2025-2026)
-- 쥬신아카데미 C++·DirectX 과정 수강 (2024)
+- 삼성청년SW·AI아카데미 14기 Python·Web 과정 수강 (2025-2026)
+- 쥬신아카데미 145기 C++·DirectX 과정 수강 (2024)
 
 ---
 
