@@ -63,7 +63,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>Language</strong> : Python, C, C++, C#, Java
 - <strong>Frontend</strong> : HTML, CSS, JS, Bootstrap, Vue.js, Kotlin, React, Flutter
 - <strong>Backend</strong> : Django, Springboot, FastAPI
-- <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql
+- <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql, MongoDB
 - <strong>AI</strong> : Jupyter, Pytorch, TensorRT
 - <strong>OS</strong> : Window, Ubuntu(Linux)
 - <strong>Simulator</strong> : Unity, UnrealEngine, Gazebo
@@ -75,7 +75,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card8_dayori.png" alt="Dayori" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card8_dayori.png" alt="데이오리" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card7_suhwak.png" alt="수확행" style="max-width:100%; max-height:100%; display:block;">
@@ -83,7 +83,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">Dayori (2026/6인)</a>
+    <a href="#">데이오리 (2026/6인)</a>
     </th>
     <th>
     <a href="#">수확행 (2026/5인)</a>
@@ -102,7 +102,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card6_ddulo.png" alt="DDULO" style="max-width:100%; max-height:100%; display:block;">
+      <img src=".assets/card6_ddulo.png" alt="뚫어" style="max-width:100%; max-height:100%; display:block;">
     </td>
     <td style="width:45%; text-align:center; vertical-align:middle;">
       <img src=".assets/card5_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
@@ -110,7 +110,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
   </tr>
   <tr>
     <th>
-    <a href="#">뚫어 DDULO (2026/5인)</a>
+    <a href="#">뚫어 (2026/5인)</a>
     </th>
     <th>
     <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025/2인)</a>
@@ -139,13 +139,18 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ## 💼 Work Experience
 
+> 경력사항
+
+- 엔도로보틱스 임베디드팀 연구원 (2026.5.-)
+
 > 인턴·아르바이트
 
-- 넥슨코리아 미디어커넥티드본부 아르바이트 (2025.4~2025.6)
-- 시온네트웍 기획개발부 인턴 (2022.6.~2022.8)
-- 이화여대 생명과학대학원 연구실 이화그린걸즈 영상편집부 아르바이트 (2021.10~2021.11)
-- 이화여대 신산업융합대학 근로장학생 (2020.09~2020.12)
-- 이화여대 식품영양대학원 연구실 이푸드랩 아르바이트 (2019.11~2019.12)
+- 넥슨코리아 미디어커넥티드본부 아르바이트 (2025.4.
+-2025.6.)
+- 시온네트웍 기획개발부 인턴 (2022.6.-2022.8.)
+- 이화여대 생명과학대학원 연구실 이화그린걸즈 영상편집부 아르바이트 (2021.10.-2021.11.)
+- 이화여대 신산업융합대학 근로장학생 (2020.9.-2020.12.)
+- 이화여대 식품영양대학원 연구실 이푸드랩 아르바이트 (2019.11.-2019.12.)
 
 ---
 
@@ -159,8 +164,8 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 > 교육이수
 
-- 삼성청년SW·AI아카데미 Python·Web 과정 수강 (2025-2026)
-- 쥬신아카데미 C++·DirectX 과정 수강 (2024)
+- 삼성청년SW·AI아카데미 14기 Python·Web 과정 수강 (2025-2026, 1800H)
+- 쥬신아카데미 145기 C++·DirectX 과정 수강 (2024, 280H)
 
 ---
 
