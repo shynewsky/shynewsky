@@ -184,6 +184,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 - <strong>2026.04.15.</strong>ㅣSSAFY 베스트 맴버 (서울 6반 4월)
 - <strong>2026.01.09.</strong>ㅣSSAFY RACE 이벤트맵·베이직맵·스피드맵 1위
+- <strong>2025.12.15.</strong>ㅣSSAFY JOB-SSAFY 14기 대표
 - <strong>2025.11.12.</strong>ㅣSSAFY 이달의 동료 (서울 4반 10월)
 - <strong>2025.07.30.</strong>ㅣSSAFY 이달의 동료 (서울 4반 7월)
 - <strong>2024.12.06.</strong>ㅣMapleCon 홍보 서포터즈 선정
