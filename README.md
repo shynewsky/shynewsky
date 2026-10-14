@@ -210,10 +210,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
 - <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
 - <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
-- <strong>2025.03.01.</strong>ㅣAICE(Basic)
-- <strong>2025.02.02.</strong>ㅣPCCE(C++) Lv3
-- <strong>2022.08.27.</strong>ㅣMOS Master
-- <strong>2020.07.18.</strong>ㅣACA Specialist
+- <strong>2025.03.01.</strong>ㅣAICE Basic
+- <strong>2025.02.02.</strong>ㅣPCCE Lv3 (C++)
+- <strong>2022.08.27.</strong>ㅣMOS Master (Word,Excel,Powerpoint,Access)
+- <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
 
 > 외국어 역량
 
