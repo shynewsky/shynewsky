@@ -166,18 +166,25 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 - 삼성청년SW·AI아카데미 14기 Python·Web 과정 수강 (2025-2026, 1600h)
 - 쥬신아카데미 145기 C++·DirectX 과정 수강 (2024, 280h)
-- SBS아카데미 디지털드로잉 과정 수강 (2023, 200h)
-- SU2만화애니학원 미술인체해부학 과정 수강 (2021-2022, 720h)
-- SBS아카데미 Premiere·AfterEffect 과정 수강 (2021, 120h)
 
 ---
 
 ## 🏷️ Interest
 
+> 트랙이수
+
 - <strong>EMB/ROBO</strong> : SSAFY AIoT·IoT(자율주행) 트랙 이수 (2026)
 - <strong>HCI/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
 - <strong>ICT/DX</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
 - <strong>생명과학/의학</strong> : 한가람고 생I·생II·고급생명 이수 (2017)
+
+> 개인공부
+
+- SBS아카데미 디지털드로잉 과정 수강 (2023, 200h)
+- SU2만화애니학원 미술인체해부학 과정 수강 (2021-2022, 720h)
+- Unreal Korea 러셀과 함께하는 시작해요 언리얼 수강 (2022, 20h)
+- SBS아카데미 Premiere·AfterEffect 과정 수강 (2021, 120h)
+- 따즈아 (2019-2020, )
 
 ---
 
