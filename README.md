@@ -219,6 +219,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
 - <strong>2025.03.01.</strong>ㅣAICE Basic
 - <strong>2025.02.02.</strong>ㅣPCCE Lv3 (C++)
+- <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
 - <strong>2022.08.27.</strong>ㅣMOS Master (Word,Excel,Powerpoint,Access)
 - <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
 
