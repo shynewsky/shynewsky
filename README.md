@@ -215,6 +215,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>2026.12.18.</strong>ㅣ정보처리기사
 - <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
+- <strong>2025.07.25.</strong>ㅣ서비스경험디자인기사(필기)
 - <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
 - <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
 - <strong>2025.03.01.</strong>ㅣAICE Basic
