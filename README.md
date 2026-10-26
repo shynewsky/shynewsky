@@ -212,7 +212,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 > 직무 역량
 
-- <strong>2026 예정</strong>ㅣ정보처리기사
+- <strong>2026.12.18.</strong>ㅣ정보처리기사
 - <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
 - <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
