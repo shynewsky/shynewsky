@@ -215,23 +215,27 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ## ✒️ Abilities
 
-> 직무 역량
+> 컴퓨터 역량
 
 - <strong>2027 예정</strong>ㅣ빅데이터분석기사
 - <strong>2026.12.18.</strong>ㅣ정보처리기사
 - <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
-- <strong>2025.07.25.</strong>ㅣ서비스경험디자인기사(필기)
-- <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
 - <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
 - <strong>2025.03.01.</strong>ㅣAICE Basic
 - <strong>2025.02.02.</strong>ㅣPCCE Lv3 (C++)
-- <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
 - <strong>2022.08.27.</strong>ㅣMOS Master (Word,Excel,Powerpoint,Access)
+
+> 디자인 역량
+
+- <strong>2025.07.25.</strong>ㅣ서비스경험디자인기사(필기)
+- <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
+- <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
 - <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
 
-> 외국어 역량
+> 언어 역량
 
+- <strong>2027 예정</strong>ㅣ한자급수자격검정 2급
 - <strong>2024.11.30.</strong>ㅣOPIc English IH
 - <strong>2024.11.24.</strong>ㅣTOEIC (950/990)
 - <strong>2024.11.16.</strong>ㅣTOEIC Speaking AL (170/200)
@@ -242,6 +246,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 - <strong>2020.1.12.-2020.1.21.</strong> (싱가포르) 난양대학교 교류학생
 - <strong>2009.6.20.-2014.2.24.</strong> (브라질) 국제 바칼로레아 학교 졸업
+
+> 그외 역량
+
+- <strong>2027 예정</strong>ㅣ수상구조사 2급
 
 ---
 
