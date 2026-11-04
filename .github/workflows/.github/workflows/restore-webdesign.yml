@@ -1,0 +1,31 @@
+name: restore-webdesign (one-time)
+on:
+  push:
+    branches: [master]
+    paths: ['.github/workflows/restore-webdesign.yml']
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Restore webdesign folder from 179f4014
+        run: |
+          set -e
+          git config core.quotepath false
+          git config user.name "shynewsky"
+          git config user.email "shynewsky@users.noreply.github.com"
+          SRC=179f401463cc630181e5886e65260f7f4060dfa0
+          DEST="study/designing/웹디자인개발기능사"
+          test ! -e "$DEST"
+          git checkout "$SRC" -- study_certification/webdesign
+          git mv study_certification/webdesign "$DEST"
+          N=$(git ls-files "$DEST" | wc -l)
+          echo "restored files: $N"
+          test "$N" -eq 582
+          git rm -q .github/workflows/restore-webdesign.yml
+          git commit -q -m "Restore webdesign folder into study/designing/웹디자인개발기능사 (from 179f4014)"
+          git push origin HEAD:master
