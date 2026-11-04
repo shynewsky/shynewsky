@@ -1,0 +1,33 @@
+
+===========================================================================
+C : Contents
+===========================================================================
+
+
+▶공지사항
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...  2024.03.01
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...  2024.03.01
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...  2024.03.01
+Lorem ipsum dolor sit amet, consectetur adipiscing elit...  2024.03.01
+
+
+
+▶레이어 팝업창 제목 및 내용
+
+제목: 기능건설 안내 
+
+내용: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+
+
+▶갤러리
+
+갤러리1
+갤러리2
+갤러리3
+
+
+

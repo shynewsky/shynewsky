@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>코리아은행</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+    <script src="javascript/jquery-1.12.3.js"></script>
+    <script src="javascript/script.js" defer type="text/javascript"></script>
+</head>
+
+<body>
+    <!--헤더-->
+    <div class="header">
+        <div class="top">
+            <!--로고-->
+            <div class="logo"><a href="#"><img src="images/logo.png" alt="로고"></a></div>
+            <!--메뉴-->
+            <div class="menu">
+                <ul class="navi">
+                    <li><a href="#">개인</a>
+                        <!--서브메뉴-->
+                        <ul class="submenu">
+                            <li><a href="#">조회</a></li>
+                            <li><a href="#">이체</a></li>
+                            <li><a href="#">공과금</a></li>
+                            <li><a href="#">예금/신탁</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">기업</a>
+                        <!--서브메뉴-->
+                        <ul class="submenu">
+                            <li><a href="#">조회</a></li>
+                            <li><a href="#">이체</a></li>
+                            <li><a href="#">전자결제</a></li>
+                            <li><a href="#">수표/어음</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">금융상품</a>
+                        <!--서브메뉴-->
+                        <ul class="submenu">
+                            <li><a href="#">저축상품</a></li>
+                            <li><a href="#">대출상품</a></li>
+                            <li><a href="#">투자상품</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">카드</a>
+                        <!--서브메뉴-->
+                        <ul class="submenu">
+                            <li><a href="#">카드정보</a></li>
+                            <li><a href="#">카드신청</a></li>
+                            <li><a href="#">이용내역조회</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--이미지 슬라이드 (코드1 패턴)-->
+    <div class="imgslide">
+        <a href="#"><img src="images/img1.jpg" alt="이미지1"><span class="imgtext">대표 은행, 코리아은행</span></a>
+        <a href="#"><img src="images/img2.jpg" alt="이미지2"><span class="imgtext">차원이 다른 코리아은행</span></a>
+        <a href="#"><img src="images/img3.jpg" alt="이미지3"><span class="imgtext">더욱 쉬운 오픈뱅킹 서비스</span></a>
+    </div>
+
+    <!--콘텐츠-->
+    <div class="contents">
+        <!--공지사항/갤러리 탭-->
+        <ul class="tabmenu">
+            <!--공지사항-->
+            <li class="active"><a href="#">공지사항</a>
+                <div class="notice">
+                    <ul>
+                        <li><a href="#">대한은행 홈페이지 개편 안내<span>2022.03.01</span></a></li>
+                        <li><a href="#">종합생활금융 플랫폼 코리아은행<span>2022.03.01</span></a></li>
+                        <li><a href="#">시스템 정기 점검 안내<span>2022.03.01</span></a></li>
+                        <li><a href="#">오픈뱅킹 앱 사용법 안내<span>2020.03.01</span></a></li>
+                    </ul>
+                </div>
+            </li>
+            <!--갤러리-->
+            <li><a href="#">갤러리</a>
+                <div class="gallery">
+                    <ul>
+                        <li><a href="#"><img src="images/gallery1.jpg" alt="갤러리1"></a></li>
+                        <li><a href="#"><img src="images/gallery2.jpg" alt="갤러리2"></a></li>
+                        <li><a href="#"><img src="images/gallery3.jpg" alt="갤러리3"></a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+
+        <!--오른쪽 영역: 바로가기(우측 끝) + 배너(그 왼쪽) -->
+        <div class="shortcut">
+            <a href="#">
+                <img src="images/shortcut.jpg" alt="바로가기">
+                <span class="sctext">바로가기</span>
+            </a>
+        </div>
+
+        <div class="banner">
+            <a href="#">
+                <img src="images/banner.jpg" alt="배너">
+                <span class="sctext">배너</span>
+            </a>
+        </div>
+    </div>
+
+    <!--레이어(검은배경 없음)-->
+    <div id="layer">
+        <div class="layer_up">
+            <div class="uptitle">코리아은행 기업 서비스 개선 안내</div>
+            <div class="upbody">
+                코리아은행에서는 더 나은 금융서비스를 제공하고자
+                기업 금융서비스를 전면 개편하였습니다.
+                이번 개편을 통해 금융뿐만 아니라 고객 데이터 분석,
+                비금융 서비스 등을 제공하는 기업 종합금융 플랫폼으로
+                거듭나게 되었으며, 모든 금융계좌의 통합관리,
+                자금 수금 및 지급 실행 등 통합자금관리 서비스를
+                무료로 제공합니다.
+            </div>
+            <div class="btn">닫기</div>
+        </div>
+    </div>
+
+    <!--푸터-->
+    <div class="footer">
+        <div class="bottom">
+            <!--로고-->
+            <div class="btlogo"><a href="#"><img src="images/logo_bottom.png" alt="하단로고"></a></div>
+            <!--하단메뉴, 카피라이트-->
+            <div class="site">
+                <!--하단메뉴-->
+                <div class="btmenu">
+                    <ul>
+                        <li><a href="#">하단메뉴1</a></li>
+                        <li><a href="#">하단메뉴2</a></li>
+                        <li><a href="#">하단메뉴3</a></li>
+                    </ul>
+                </div>
+                <!--카피라이트-->
+                <div class="copy">COPYRIGHTⓒ by WEBDESIGN. ALL RIGHTS RESERVED</div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

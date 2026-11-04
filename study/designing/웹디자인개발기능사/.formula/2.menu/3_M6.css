@@ -1,0 +1,72 @@
+#main {
+    width: calc(100% - 200px);
+    /* height: 800px;
+    background-color: yellow; */
+    position: relative;
+}
+/* #main .nav{
+} */
+#main::after {
+    content: '';
+    background-color: purple;
+    width: 100%;
+    height: 0;
+    top: 100px;
+    left: 0;
+    position: absolute;
+    z-index: 1;
+    transition: all 400mx;
+}
+#main.on::after {
+    /*차이점*/
+    width: 100%;
+}
+
+.nav {
+    z-index: 1000;
+    /*차이점*/
+    position: relative;
+}
+
+/*---------------------------------------*/
+
+.nav > ul > li {
+    /*추가*/
+    position: relative;
+}
+
+.nav > ul > li > a {
+    display: block;
+    background-color: lightcoral;
+    padding: 10px;
+    text-align: center;
+}
+.nav > ul > li > a:hover {
+    background-color: coral;
+}
+
+.nav > ul > li > ul {
+    display: none;
+    /*추가*/
+    position: absolute;
+    width: 500px;
+    top: 0;
+    right: -500px;
+    /*추추가*/
+    background-color: pink;
+}
+.nav > ul > li > ul > li {
+    /*추추가*/
+    display: inline;
+}
+
+.nav > ul > li > ul > li > a {
+    display: inline-block; /*차이점*/
+    background-color: pink;
+    padding: 10px;
+    /* text-align: center; */
+    width: 100px; /*차이점*/
+}
+.nav > ul > li > ul > li > a:hover{
+    background-color: plum;
+}

@@ -1,0 +1,245 @@
+@charset "utf-8";
+/* Layout + Essential CSS */
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none; /* 목록 불릿 제거 */
+}
+body {
+  width: 1000px;   /* 와이어프레임 너비 */
+  height: 650px;   /* 와이어프레임 높이 */
+  background-color: #ffffff; /* 기본 배경 */
+}
+a {
+  display: block;
+  text-decoration: none; /* 링크 밑줄 제거 */
+  color: inherit;        /* 부모 색상 상속 */
+}
+
+/* header → .header */
+.header {
+  float: left;
+  position: absolute;	
+}
+.top {
+  float: left; 
+  width: 200px;
+  height: 650px;
+}
+.logo {
+  float: left;
+  width: 200px;
+  height: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.menu {
+  float: left;
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  z-index: 1;	
+  text-align: center;
+}
+.navi > li {
+  float: left;
+  width: 180px;
+}
+.navi > li > a {
+  width: 180px; 
+  height: 40px; 
+  line-height: 40px; 
+  background-color: #333333; /* 메뉴 배경 */
+  color: #ffffff;            /* 메뉴 텍스트 */
+}
+.submenu {
+  float: left;
+  position: absolute;
+  top: 0; 
+  left: 180px;
+  z-index: 1;
+  width: 180px;
+  height: 100%;
+  display: none;
+  background-color: #cccccc; /* 서브메뉴 배경 */
+}
+.submenu > li > a {
+  width: 180px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #cccccc;
+  color: #ffffff;
+}
+
+/* B영역: 이미지 슬라이드 */
+.imgslide {
+  float: right;
+  position: relative;
+  width: 800px;
+  height: 350px;
+}
+.imgslide > a {
+  position: absolute;
+  display: block; 
+}
+.imgslide span {
+  position: absolute;
+  left: 40%;
+  top: 45%;
+  width: 160px;
+  text-align: center;
+  background-color: rgba(200,200,200,0.5); /* 반투명 배경 */
+  color: #ffffff;
+}
+
+/* C영역: 공지/갤러리/바로가기 */
+.contents {
+  float: right;
+  width: 800px;
+  height: 200px;
+}
+.notice {
+  float: left;
+  width: 300px;
+  height: 200px;
+}
+.tab {
+  float: left;
+  width: 300px;
+}
+.notice .tab-title {
+  float: left;
+  height: 50px;
+  line-height: 50px;
+}
+.notice ul {
+  float: left;
+  width: 280px;
+  height: 30px;
+  line-height: 30px;
+}
+.notice li span {
+  float: right;
+}
+.gallery {
+  float: left;
+  width: 300px;
+  height: 200px;
+}
+.gallery .tab-title {
+  float: left;
+  height: 50px;
+  line-height: 50px;
+}
+.gallery ul li {
+  float: left;
+  margin-top: 10px;
+  padding: 10px;
+}
+.gallery img {
+  width: 80px;	
+  height: 80px;
+}
+.shortcut {
+  float: right;
+  width: 200px;
+  height: 200px;
+}
+.shortcut img {
+  float: right;
+  width: 180px;
+  height: 180px;
+  padding: 10px;	
+}
+.sctext {
+  position: absolute;
+  width: 100px;
+  margin-top: 85px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: rgba(255,255,255,0.5);
+}
+
+/* Modal */
+#modal {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1; 
+  width: 100%;
+  height: 100%;
+  display: none; 
+  background: rgba(0,0,0,0.6); 
+}
+#modal.active {
+  display: block;
+}
+.modal_up {
+  position: fixed;
+  left: 30%; 
+  top: 20%; 
+  width: 400px;
+  height: 300px;
+  background-color: #ffffff;
+}
+.uptitle {
+  margin-top: 30px;
+  text-align: center; 
+}
+.upbody {
+  padding: 30px;
+  text-align: center;
+}
+.btn {
+  position: absolute; 
+  right: 10px;
+  bottom: 10px;
+  width: 80px;
+  height: 20px;
+  display: block;
+  text-align: center;
+  background: #cccccc;
+}
+
+/* footer → .footer */
+.footer {
+  float: right;
+}
+.bottom {
+  float: right;
+  width: 800px;
+  height: 100px;
+  background-color: #cccccc;
+}
+.btlogo {
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+.btlogo img {    
+  float: left;
+  width: 200px;
+  height: 40px;
+  margin-top: 25px;
+  margin-left: 10px;
+}
+.copy {
+  float: left;
+  width: 400px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+.familysite {
+  float: right;
+  width: 200px;
+  height: 100px;
+}
+.familysite select {
+  float: right;
+  width: 190px;
+  height: 30px;
+  margin-top: 20px;
+  margin-right: 10px;
+}

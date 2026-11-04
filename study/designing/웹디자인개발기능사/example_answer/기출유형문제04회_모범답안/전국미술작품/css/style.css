@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+  margin:0 auto;
+  padding:0;
+  list-style:none;
+  font-family:"맑은 고딕";
+  color:#333333;
+}
+html, body{
+  min-width:1200px;
+  background-color:#ffffff;
+  font-size:20px;
+}
+a{
+  text-decoration:none;
+  display:block;
+}
+
+/* ===== Header ===== */
+.header{ width:100%; height:100px; background:#dddddd; }
+.top{ width:1200px; }
+.logo{ float:left; width:250px; height:100px; }
+.menu{ float:right; width:800px; height:100px; z-index:1; }
+.navi{ float:right; margin-top:30px; margin-right:10px; }
+.navi>li{ float:left; }
+.navi>li>a{
+  width:180px; height:40px;
+  line-height:40px; font-size:16px; font-weight:bold; text-align:center;
+  background:#333333; color:#ffffff;
+}
+.navi>li>a:hover{ background:#30a3f3; }
+
+.submenu{
+  width:180px; position:absolute; display:none; z-index:1; background:#ffffff;
+}
+.submenu>li>a{
+  height:40px; line-height:40px; font-size:14px; font-weight:bold; text-align:center;
+  color:#333333; background:#ffffff;
+}
+.submenu>li>a:hover{ background:#30a3f3; }
+
+/* ===== Image Slide (코드1 패턴) ===== */
+.imgslide{ width:1200px; height:300px; position:relative; overflow:hidden; }
+.imgslide a{ position:absolute; left:0; top:0; width:100%; height:100%; }
+.imgslide img{ width:1200px; height:300px; display:block; }
+.imgtext{
+  position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:500px; height:50px; line-height:50px;
+  text-align:center; color:#ffffff; font-weight:bold;
+  background:rgba(40,40,40,0.5);
+}
+
+/* ===== Contents ===== */
+.contents{ position:relative; width:1200px; height:200px; }
+
+/* 탭 */
+.tabmenu{ float:left; width:395px; height:180px; margin-top:10px; margin-bottom:10px; }
+.tabmenu>li{ float:left; width:100px; line-height:30px; }
+.tabmenu>li>a{
+  display:block; font-size:16px; text-align:center; background:#cccccc;
+  border:1px solid #dddddd; border-bottom:none;
+}
+.tabmenu>li>a:hover{ background:#eeeeee; }
+.tabmenu>li:first-child a{ border-right:none; }
+.tabmenu>li.active>a{ background:#ffffff; }
+
+.tabmenu>li div{ position:absolute; left:0; height:0; overflow:hidden; }
+.tabmenu>li.active div{ width:393px; height:148px; border:1px solid #dddddd; z-index:1; }
+
+/* 공지 */
+.notice ul{ float:left; width:393px; margin-top:12px; margin-bottom:12px; }
+.notice li{ height:32px; line-height:32px; font-size:15px; margin-left:10px; margin-right:10px; }
+.notice li:nth-child(2n){ background:#cccccc; }
+.notice li span{ float:right; }
+.notice li:hover{ font-weight:bold; }
+
+/* 갤러리 */
+.gallery li{ float:left; margin-top:15px; margin-left:5px; }
+.gallery img{ width:100px; height:100px; padding:10px; }
+.gallery li:hover{ opacity:0.5; }
+
+/* ===== Banner & Shortcut (래퍼 .otherwrap 제거) ===== */
+.banner, .shortcut{ float:right; height:180px; margin-top:10px; margin-bottom:10px; }
+.banner{ width:395px; margin-right:5px; }
+.shortcut{ width:400px; }
+
+.banner a, .shortcut a{ position:relative; }
+.banner img{ width:395px; height:180px; }
+.shortcut img{ width:400px; height:180px; }
+.banner img:hover, .shortcut img:hover{ opacity:0.5; }
+
+/* 코드1 네이밍의 오버레이 텍스트 */
+.banner .sctext, .shortcut .sctext{
+  position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:300px; height:40px; line-height:40px;
+  text-align:center; color:#ffffff; font-weight:bold;
+  background:rgba(40,40,40,0.3);
+}
+
+/* ===== Layer (레이어) ===== */
+#layer{ position:absolute; z-index:1; display:none; }
+#layer.active{ display:block; }
+.layer_up{
+  width:500px; height:400px; position:fixed; left:30%; top:20%; background:#ffffff;
+}
+.uptitle{ margin-top:30px; text-align:center; line-height:16px; font-size:20px; font-weight:bold; }
+.upbody{ padding:30px; text-align:center; font-size:16px; line-height:30px; }
+.btn{
+  width:80px; height:20px; display:block; text-align:center; font-size:15px; font-weight:bold;
+  background:#cccccc; position:absolute; right:10px; bottom:10px;
+}
+
+/* ===== Footer ===== */
+.footer{ width:100%; height:100px; background:#30a3f3; }
+.bottom{ width:1200px; height:100%; }
+.btlogo{ float:left; width:200px; height:100px; }
+.btlogo img{ float:left; width:200px; height:80px; margin-top:10px; margin-left:25px; }
+.copy{ float:left; width:800px; height:100px; text-align:center; font-size:20px; line-height:100px; }
+.sns{ float:right; width:200px; height:100px; }
+.sns ul{ float:right; margin-right:10px; margin-top:20px; }
+.sns li{ display:inline-block; }
+.sns img{ width:40px; height:40px; padding:5px; }
+.sns img:hover{ opacity:0.5; }
