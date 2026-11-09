@@ -213,7 +213,6 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 > 컴퓨터 역량
 
 - <strong>2027 예정</strong>ㅣ빅데이터분석기사
-- <strong>2027 예정</strong>ㅣSAP Certified Associate
 - <strong>2026.12.18.</strong>ㅣ정보처리기사
 - <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
 - <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
@@ -224,7 +223,7 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 > 디자인 역량
 
-- <strong>2025.07.25.</strong>ㅣ서비스경험디자인기사(필기)
+- <strong>2027 예정</strong>ㅣ서비스경험디자인기사
 - <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
 - <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
 - <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
