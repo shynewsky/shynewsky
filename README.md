@@ -1,60 +1,13 @@
-<!--## Hi there 👋-->
+[![GitHub](#)](#)
+[![Notion](#)](#)
+[![Tistory](#)](#)
+[![Behance](#)](#)
 
-<!--
-**shynewsky/shynewsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 대표문장
 
-Here are some ideas to get you started:
+### 문장
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--타이틀 부분
-align="center" -- 가운데 정렬
-type=waving -- 전체 형태
-color=gradient -- 색상
-customColorList=20 -- 색 팔레트 번호
-height=250 -- 높이
-section=header -- ?
-text=Welcome%20to%20My%20Github -- 윗줄, 자간(%20) 
-desc=I'm%20Saeha%20Yang -- 아랫줄, 자간(%20)
-animation=fadeIn -- 모든 글자 등장 애니메이션
-fontColor=ffffff -- 윗줄 글자 색상
-fontSize=50 -- 윗줄 글자 크기
-fontAlignY=25 -- 윗줄 글자 상하 위치
-descSize=40 -- 아랫줄 글자 크기
-descAlignY=50 -- 아랫줄 글자 상하 위치
-" />
--->
-
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=102&fontColor=00462a" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=100&section=footer&text=Saeha%20Yang's%20PORTFOLIO&fontSize=50&fontAlignY=0&fontColor=0053a1" />
-</div> -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)](https://github.com/shynewsky)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)](https://mousy-newsboy-6d0.notion.site/Saeha-Yang-2bdded4090b1806c8759ec5d323113ca)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge)](https://shynewsky.tistory.com/)
-[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge)](https://www.behance.net/shynewsky)
-
-# 어려운 문제에 더 깊고 집요하게 파고드는「양새하」입니다.
-
-### 다양한 선택지 속에서 프로젝트에 맞는 방향을 판단하고, <br>기획 의도를 구현까지 연결하는 개발자로 성장하고 있습니다.
-
-융합콘텐츠학과에서 **첨단기술 산업** 과 **Human-Computer Interaction(HCI)** 에 대한 관심을 바탕으로<br>40여 개의 기획·디자인 프로젝트를 수행하며, **실제로 동작하는 시스템을 구현하고 싶다는 목표** 가 생겼고,<br>쥬신아카데미와 삼성청년SW·AI아카데미에 입과하여 본격적으로 개발 역량을 쌓았습니다.
-
-삼성청년SW·AI아카데미에서는 **Python 기반 알고리즘 역량**과 **Web Full Stack** 개발 역량을 강화했으며,<br>**AIoT 및 자율주행(IoT) 프로젝트** 에서 **Jetson, ROS2, Gazebo** 등을 활용해 IoT 소프트웨어 설계 및 구현을 담당하였습니다.
-
-기획·디자인부터 개발까지 **다양한 직무를 경험** 하며 도메인별 전문 용어와 협업 방식을 익혔고,<br>이를 통해 요구사항을 정확히 **분석**하고 기술적으로 **구현**하는 역량과 원활한 **소통** 능력을 갖추게 되었습니다.
-
-초기에는 게임 중심의 프로젝트로 개발 기초를 다졌지만,<br>현재는 **인간과 디지털 기술이 상호작용하는 디지털·IT 산업 전반**에서<br>사용성을 증대시키는 소프트웨어 개발자로 성장하고자 합니다.
+자기소개 본문
 
 ---
 
@@ -70,141 +23,77 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 
 ---
 
-## 🎯 대표 프로젝트
+## 🎯 Projects
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <tr>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card8_dayori.png" alt="데이오리" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card7_suhwak.png" alt="수확행" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-  </tr>
-  <tr>
-    <th>
-    <a href="#">데이오리 (2026/6인)</a>
-    </th>
-    <th>
-    <a href="#">수확행 (2026/5인)</a>
-    </th>
-  </tr>
-  <tr>
-    <th>
-      Springboot, Jenkins, AWS EC2, Flutter
-    </th>
-    <th>
-      ROS2, Gazebo, FastAPI, Postgresql, React
-    </th>
-  </tr>
-</table>
+### EndoRobotics R&D Embedded | 2026.05. - Present
 
-<table border="1" cellpadding="5" cellspacing="0">
-  <tr>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card6_ddulo.png" alt="뚫어" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-    <td style="width:45%; text-align:center; vertical-align:middle;">
-      <img src=".assets/card5_mrpcpicker.png" alt="Mr.PC Picker" style="max-width:100%; max-height:100%; display:block;">
-    </td>
-  </tr>
-  <tr>
-    <th>
-    <a href="#">뚫어 (2026/5인)</a>
-    </th>
-    <th>
-    <a href="https://github.com/MrPCPicker/Mr.PCPicker">Mr.PC Picker (2025/2인)</a>
-    </th>
-  </tr>
-  <tr>
-    <th>
-      Jetson, TensorRT, YOLOv8, MQTT, Kotlin
-    </th>
-    <th>
-      Django REST API, Vue.js, GMS, Sqlite
-    </th>
-  </tr>
-</table>
+> EndoCubot ERCP Simulator | 2026.07. - Present
+- 
+- 
+- 
 
----
+<br>
 
-## 🗂️ 그 외 프로젝트
+### Samsung SW·AI Academy (1600h) | 2025.07.-2026.05.
 
-- <a href="https://github.com/No-but-why-not-this/SSAFY_RACE">SSAFY Race (2025/3인) </a> - Python, Anaconda, Codex
-- <a href="https://github.com/shynewsky/Ssafy_AIchallenge">SSAFY AI 챌린지 (2025/4인)</a> - Python, Pytorch, Kaggle
-- <a href="https://github.com/shynewsky/JusinSR_RiffleEffect">Riffle Effect (2024/3인)</a> - C++, DirectX9
-- <a href="https://github.com/shynewsky/JusinAPI_Maplestory">Maplestory (2024/1인)</a> - C++, WindowAPI
+> '수확행', (설명) | 2026.03.-2026.04.
+- 자율주행 로봇 트랙 이수
+- 
+- 
 
----
+> '뚫어', (설명) | 2026.01.-2026.02.
+- AIoT 트랙 이수
+- SSAFY 공통프로젝트 우수상 (서울 2반 3위)
+- 
 
-## 💼 Work Experience
-
-> 정규직
-
-- 엔도로보틱스 연구소 임베디드팀 정규직 (2026.5.-)
-
-> 인턴·아르바이트
-
-- 넥슨코리아 미디어커넥티드본부 아르바이트 (2025.4.-2025.6.)
-- 시온네트웍 기획개발부 인턴 (2022.6.-2022.8.)
-- 이화여대 생명과학대학원 연구실 이화그린걸즈 아르바이트 (2021.10.-2021.11.)
-- 이화여대 신산업융합대학 근로장학생 (2020.9.-2020.12.)
-- 이화여대 식품영양대학원 연구실 이푸드랩 아르바이트 (2019.11.-2019.12.)
-
----
-
-## 📖 Education
-
-> 학력사항
-
-- 국가평생교육진흥원 컴퓨터공학전공(BEng) 학위 취득 (2026-2027)
-- 이화여자대학교 융합콘텐츠(BSc)·디자인(BA) 우등 졸업 (2019-2025 / 96.4)
-- 한가람고등학교 고급생명·고급영어 교과우수 및 우등상 (2015-2018 / 2.96)
-- 국제 바칼로레아 학교(St.Francis College) 수학·과학 교과우수 (2009-2014)
-
-> 교육이수
-
-- 삼성청년SW·AI아카데미 14기 Python·Web 과정 이수 (2025-2026, 1600h)
-- 쥬신아카데미 145기 C++·DirectX 과정 이수 (2024, 280h)
-
----
-
-## 🏷️ Interest
-
-> 트랙이수
-
-- <strong>EMB/ROBO</strong> : SSAFY AIoT·IoT(자율주행) 트랙 이수 (2026)
-- <strong>HCI/UX</strong> : 이화여대 UX기획&디자인트랙 이수 (2024)
-- <strong>ICT/DX</strong> : 이화여대 콘텐츠서비스&기획트랙 이수 (2023)
-- <strong>생명과학/의학</strong> : 한가람고 생I·생II·고급생명 이수 (2017)
-
-> 교육수강
-
-- SBS아카데미 디지털드로잉 과정 수강 (2023, 200h)
-- SU2만화애니학원 미술인체해부학 과정 수강 (2021-2022, 720h)
-- Unreal Korea 러셀과 함께하는 시작해요 언리얼 수강 (2022, 20h)
-- SBS아카데미 Premiere·AfterEffect 과정 수강 (2021, 120h)
-- 따즈아 C·C++·C#·Unity·GameDesign 과정 수강(2019-2020)
-
----
-
-## 🏆 Awards
-
-> 수상이력
-
-- <strong>2026.02.23.</strong>ㅣSSAFY 공통프로젝트 우수상 (서울 2반 3위)
-
-> 우수활동
-
+> (그외 활동...)
+- Python·Web 과정 이수
 - <strong>2026.04.15.</strong>ㅣSSAFY 베스트 맴버 (서울 6반 4월)
 - <strong>2026.01.09.</strong>ㅣSSAFY RACE 이벤트맵·베이직맵·스피드맵 1위
 - <strong>2025.12.15.</strong>ㅣSSAFY JOB-SSAFY 14기 대표
 - <strong>2025.11.12.</strong>ㅣSSAFY 이달의 동료 (서울 4반 10월)
 - <strong>2025.08.05.-2025.11.11.</strong>ㅣSSAFY 알고리즘 스터디 운영
 - <strong>2025.07.30.</strong>ㅣSSAFY 이달의 동료 (서울 4반 7월)
-- <strong>2024.12.06.</strong>ㅣ넥슨코리아 MapleCon 홍보 서포터즈 선정
-- <strong>2022.11.16.</strong>ㅣ넥슨 슈퍼해커톤 브이로그 부문 2등
-- <strong>2020.01.25.</strong>ㅣ신산업융합대학 야구점퍼 디자인 우승
+
+<br>
+
+### Jusin Game Academy (280h) | 2024.01.-2024.08.
+
+> (게임모작...)
+- C++·DirectX 과정 이수
+- 
+
+<br>
+
+### ZionNetwork R&D (Intern) | 2022.06.-2022.08.
+
+> 'HAIO', (설명) | 2022.07.
+- 
+- 
+- 
+
+> (강사파견...) 
+- 인천과학고등학교 여름방학 유니티 특강 강사 | 2022.08.
+- 한양대 ERICA 유니티 Umodeling 보조 강사 | 2022.07.
+- 웅진싱크빅x유니티 Starters 부트캠프 보조 강사 | 2022.06.
+
+---
+
+## 📖 Education
+
+> Ewha Womans University | 2019.03.-2025.08
+
+- 융합콘텐츠(BSc)·디자인(BA) 복수전공 우등졸업 (GPA 96.4)
+- 'UX기획&디자인', '콘텐츠서비스&기획' 복수트랙 이수 (2023)
+- 이화여대 융합콘텐츠학과 과학생회 `CON:NECT` 19학번 대표 (2019)
+- 이화여대 제 2대 신산업융합대학 학생회 `Raon` 복지국 (2019)
+- 이화여대 제 51대 총학생회 `Enable` 문화기획국 (2019)
+
+> (그 외 학력..)
+
+- 국가평생교육진흥원 컴퓨터공학전공(BEng) 학위 취득 ㅣ 2027 예정
+- 한가람고등학교 고급생명·고급영어 교과우수 및 우등상 (2.96) | 2015.03.-2018.02.
+- 국제 바칼로레아 학교(St.Francis College) 수학·과학 교과우수 | 2009.08.-2013.12.
 
 ---
 
@@ -242,40 +131,10 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - <strong>2020.1.12.-2020.1.21.</strong> (싱가포르) 난양대학교 교류학생
 - <strong>2009.6.20.-2014.2.24.</strong> (브라질) 국제 바칼로레아 학교 졸업
 
----
+-------------------------------------
 
-<!-- ## 📊 GitHub Stats
+## 🎐 Activities
 
-<div align="center">
-<a href="https://github.com/shynewsky/">
-  <img src="https://github-readme-stats.vercel.app/api?username=shynewsky&show_icons=true&theme=default&hide_border=true&count_private=true" width=56% />
-</a>
-<a href="https://github.com/shynewsky/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shynewsky&include_all_commits=true&layout=donut&show_icons=true&theme=default&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>
-</div>
-
----  
-
-## ⌨️ Algorithm Study
-
-<div align="center">
-<img src="https://topsolved.mayonedev.com/api/boj?handle=shynewsky&row=25&base_color=silver">
-</div>
-
---- -->
-
-## 🎐Other Activities
-
-> 교내활동 - 학생회
-
-- 이화여대 융합콘텐츠학과 과학생회 `CON:NECT` 19학번 대표 (2019)
-- 이화여대 제 2대 신산업융합대학 학생회 `Raon` 복지국 (2019)
-- 이화여대 제 51대 총학생회 `Enable` 문화기획국 (2019)
-
-> 교외활동 - 동아리
-
-- 일러스트작가모임 `아임그리다` 1기 (2024)
 - 전국게임제작동아리 `GameMakers` 6기 (2022)
 - 대학연합게임제작동아리 `Bridge` 8기 (2020)
 
@@ -286,17 +145,6 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - Instagram `서묘호`(2020-2025) - 캐릭터 디자인 및 MMD 콘텐츠 연구
 - Youtube `메이플1분요약`(2020-2025) - 비디오 165개, 쇼츠 129개, 라이브 319회
 - Youtube `이화여대 수강신청 튜토리얼`(2020,2022) - 비디오 2개
-
-> 개인활동 - 사회환원
-
-- <strong>2027 예정</strong>ㅣ수상구조사 2급
-- <strong>2026.11.07.</strong>ㅣ대한적십자사 `ABO Friends` (No.1301-3422)
-- <strong>2026.09.26.</strong>ㅣ대한적십자사 `응급처치 일반과정` 수료 (8h)
-- <strong>2026.08.26.</strong>ㅣ지파운데이션 `국내아동결연` 정기후원
-
----
-
-## 💻 Other Projects
 
 > 교과 프로젝트 - User Experience Design
 
@@ -350,10 +198,6 @@ descAlignY=50 -- 아랫줄 글자 상하 위치
 - 네이버 스티커 출시 (2024) - `묘호티콘1 - 희노애락` 
 - 작가와 무료표지 9종 기부 (2024) - `태양이 거실벽에 추상화를 그린다`
 - 압구정 빈칸 일러닷 참여 (2023) - `서묘호`
-
----
-
-## 💡 FAQ
 
 > 융합콘텐츠는 무슨 학과인가요?
 
