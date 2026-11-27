@@ -2,8 +2,6 @@
 
 ### 좋은 사람들과 함께 건설성 있는 토의를 하며 공동의 목표를 향해 나아가고 싶습니다
 
-<br>
-
 ---
 
 ## 📌 Overview
@@ -12,20 +10,18 @@
 - 시온네트웍 R&D 인턴
 - 이화여자대학교 졸업
 
-<br>
-
 ---
 
 ## 🛠 Tech Stack
 
+#### UX Tech
 - <strong>Prototype</strong> : Figma, AdobeXD, Protopie
 - <strong>Design</strong> : Photoshop, Illustrator, Indesign
 - <strong>Modelling</strong> : Blender
 - <strong>Video</strong> : PremeierePro, AfterEffect, Audition
 - <strong>Office</strong> : Word, Excel, Powerpoint
 
-<br>
-
+#### Programming Tech
 - <strong>Language</strong> : Python, C++
 - <strong>Simulator</strong> : Unity3D, UnrealEngine, Gazebo
 - <strong>Frontend</strong> : Bootstrap, Vue.js, Kotlin, React, Flutter
@@ -34,47 +30,36 @@
 - <strong>AI</strong> : Jupyter, Pytorch, TensorRT
 - <strong>OS</strong> : Window, Ubuntu(Linux)
 
-<br>
-
 ---
 
 ## ⏱️ Timeline
 
-- <strong>St.Francis College, Brazil | 2009-2014</strong><br>실험 위주로 진행되는 과학에 재미를 느껴, 선생님을 본받아 [생명과학선생님] 이 되고 싶었습니다.
+#### St.Francis College, Brazil | 2009-2014
+실험 위주로 진행되는 과학에 재미를 느껴, 선생님을 본받아 [생명과학선생님] 이 되고 싶었습니다.
 
-<br>
+#### Hangaram Highschool, Korea / Rank 2.96 | 2015-2018
+생명과학에 몰두하던 중, 동물원 윤리에 대한 책에 감명받아 [가상현실 동물원] 을 만들고 싶었습니다.
 
-- <strong>Hangaram Highschool, Korea / Rank 2.96 | 2015-2018 </strong><br>생명과학에 몰두하던 중, 동물원 윤리에 대한 책에 감명받아 [가상현실 동물원] 을 만들고 싶었습니다.
+#### Ewha Womans University, Korea / GPA 96.4 | 2019-2025 
+코로나를 겪으며 가상현실 중 인디게임에 눈을 뜨게 되어 직접 [나만의 게임] 을 만들고 싶어졌습니다.
 
-<br>
+#### ZionNetwork R&D / Intern | 2022
+[가상 인공호흡기 시뮬레이터]의 시나리오·펑션트리 제작 및 Unity 게임 기획·모델링·개발 교육을 하며 메타버스 개발 과정을 익혔습니다.
 
-- <strong>Ewha Womans University, Korea / GPA 96.4 | 2019-2025 </strong><br>코로나를 겪으며 가상현실 중 인디게임에 눈을 뜨게 되어 직접 [나만의 게임] 을 만들고 싶어졌습니다.
+#### Smilegate Online GameJam / Art Director | 2022
+직접 제작한 게임 [물멍키트] 를 출시하였지만, 코딩 지식 부족으로 더 나은 '플레이 경험'을 주지 못하여 아쉬웠습니다.
 
-<br>
+#### Jusin Game Academy / 280h | 2024
+기초 C++ 부터 게임 프로그래밍 실력을 쌓으며 [메이플스토리-제로] 와 [리플이펙트] 모작을 진행했습니다.
 
-- <strong>ZionNetwork R&D / Intern | 2022 </strong><br>[가상 인공호흡기 시뮬레이터]의 시나리오·펑션트리 제작 및 Unity 게임 기획·모델링·개발 교육을 하며 메타버스 개발 과정을 익혔습니다.
+#### Nexon Korea Media-Connected / Full-Time | 2025
+그리던 직장을 위해 유튜브활동과 홍보서포터즈를 하였지만, <br>아르바이트와 정규직 면접을 통해 저는 '게임'이 아닌 '제작'을 좋아했음을 깨달았습니다.<br>인턴 경험을 접목하여 [의료 서비스] 를 개발하고자 하였습니다
 
-<br>
+#### Samsung SW·AI Academy / 1600h | 2025-2026
+AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 관심을 갖게 되었습니다
 
-- <strong>Smilegate Online GameJam / Art Director | 2022 </strong><br>직접 제작한 게임 [물멍키트] 를 출시하였지만, 코딩 지식 부족으로 더 나은 '플레이 경험'을 주지 못하여 아쉬웠습니다.
-
-<br>
-
-- <strong>Jusin Game Academy / 280h | 2024 </strong><br>기초 C++ 부터 게임 프로그래밍 실력을 쌓으며 [메이플스토리-제로] 와 [리플이펙트] 모작을 진행했습니다.
-
-<br>
-
-- <strong>Nexon Korea Media-Connected / Full-Time | 2025 </strong><br>그리던 직장을 위해 유튜브활동과 홍보서포터즈를 하였지만, <br>아르바이트와 정규직 면접을 통해 저는 '게임'이 아닌 '제작'을 좋아했음을 깨달았습니다.<br>인턴 경험을 접목하여 [의료 서비스] 를 개발하고자 하였습니다
-
-<br>
-
-- <strong>Samsung SW·AI Academy / 1600h | 2025-2026 </strong><br>AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 관심을 갖게 되었습니다
-
-<br>
-
-- <strong>EndoRobotics R&D / UX Engineer | 2026-Present </strong><br>내시경 로봇 제품을 중심으로 전임상실험, 사용적합성 테스트와 성능시험보고서 작성을 진행하고 있습니다
-
-<br>
+#### EndoRobotics R&D / UX Engineer | 2026-Present
+내시경 로봇 제품을 중심으로 전임상실험, 사용적합성 테스트와 성능시험보고서 작성을 진행하고 있습니다
 
 ---
 
@@ -95,8 +80,6 @@
 #### ZionNetwork / 'HAIO ICU Ventilator Simulator' | 2022.07.
 - 소개 : 신속성과 정확성을 요구하는 중환자실 인공호흡기 연습을 위한 VR 시뮬레이터 프로그램
 - 기술 : 데스크리서치, 필드리서치, 시나리오, 펑션트리
-
-<br>
 
 ---
 
