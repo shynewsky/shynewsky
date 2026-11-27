@@ -1,4 +1,4 @@
-# 사람과 기기를 잇는 HMI UX 디자이너 [양새하] 입니다
+# 사람과 기계를 조율하는 HMI UX 디자이너 [양새하] 입니다
 
 ### 좋은 사람들과 함께 하나의 목표를 향해 건설성 있는 토의를 하고 싶습니다
 
@@ -24,88 +24,123 @@
 - <strong>Video</strong> : PremeierePro, AfterEffect, Audition
 - <strong>Office</strong> : Word, Excel, Powerpoint
 
-<br>
+---
 
 - <strong>Language</strong> : Python, C++
+- <strong>Simulator</strong> : Unity3D, UnrealEngine, Gazebo
 - <strong>Frontend</strong> : Bootstrap, Vue.js, Kotlin, React, Flutter
 - <strong>Backend</strong> : Django, Springboot, FastAPI
 - <strong>DB</strong> : SQL, Sqlite, Redis, MySQL, Postgresql, MongoDB
 - <strong>AI</strong> : Jupyter, Pytorch, TensorRT
 - <strong>OS</strong> : Window, Ubuntu(Linux)
-- <strong>Simulator</strong> : Unity3D, UnrealEngine, Gazebo
 
+---
+
+## ⏱️ Timeline
+
+- <strong>St.Francis College, Brazil | 2009-2014</strong><br>실험 위주로 진행되는 과학에 재미를 느껴, 선생님을 본받아 [생명과학선생님] 이 되고 싶었습니다.
+---
+
+- <strong>Hangaram Highschool, Korea / Rank 2.96 | 2015-2018 </strong><br>생명과학에 몰두하던 중, 동물원 윤리에 대한 책에 감명받아 [가상현실 동물원] 을 만들고 싶었습니다.
+---
+
+- <strong>Ewha Womans University, Korea / GPA 96.4 | 2019-2025 </strong><br>코로나를 겪으며 가상현실 중 인디게임에 눈을 뜨게 되어 직접 [나만의 게임] 을 만들고 싶어졌습니다.
+---
+
+- <strong>ZionNetwork R&D / Intern | 2022 </strong><br>[가상 인공호흡기 시뮬레이터]의 시나리오·펑션트리 제작 및 Unity 게임 기획·모델링·개발 교육을 하며 메타버스 개발 과정을 익혔습니다.
+---
+
+- <strong>Smilegate Online GameJam / Art Director | 2022 </strong><br>직접 제작한 게임 [물멍키트] 를 출시하였지만, 코딩 지식 부족으로 더 나은 '플레이 경험'을 주지 못하여 아쉬웠습니다.
+---
+
+- <strong>Jusin Game Academy / 280h | 2024 </strong><br>기초 C++ 부터 게임 프로그래밍 실력을 쌓으며 [메이플스토리-제로] 와 [리플이펙트] 모작을 진행했습니다.
+---
+
+- <strong>Nexon Korea Media-Connected / Full-Time | 2025 </strong><br>그리던 직장을 위해 브이로그 홍보 서포터즈와 아르바이트도 했지만, 정규직 면접에서 떨어지며 저는 '게임'이 아닌 '제작'을 좋아했음을 깨달았습니다.<br>인턴 경험을 접목하여 [의료 서비스] 를 개발하고자 하였습니다
+---
+
+- <strong>Samsung SW·AI Academy / 1600h | 2025-2026 </strong><br>AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 관심을 갖게 되었습니다
+---
+
+- <strong>EndoRobotics R&D / UX Engineer | 2026-Present </strong><br>내시경 로봇 제품을 중심으로 전임상실험, 사용적합성 테스트와 성능시험보고서 작성을 진행하고 있습니다
 
 ---
 
 ## 🎯 Main Projects
 
-### EndoRobotics R&D | 2026.05. - Present
+#### EndoRobotics / 'EndoCubot ERCP Simulator' | 2026.07.-Present
+> 방사선 피폭 없이 ERCP 시술의 측시경 및 가이드와이어 사용 합동 연습을 위한 모듈
+- 기술 : RaspberryPi, Python, 필드리서치, UI데이터분석
 
-> 'EndoCubot ERCP Simulator' | 2026.07.-Present
-- 프로젝트 기술 : RaspberryPi·Python·필드리서치·UI데이터분석
+---
 
-<br>
+#### SSAFY / '수확행' | 2026.03.-2026.04.
+> AI 자율주행 로봇 기반 무인 농작물 케어·수확 서비스
+- 기술 : ROS2, Gazebo, FastAPI, PostgreSQL, React
 
-### Samsung SW·AI Academy (1600h) | 2025.07. - 2026.05.
+---
 
-### Jusin Game Academy (280h) | 2024.01. - 2024.08.
+#### SSAFY / '뚫어' | 2026.01.-2026.02.
+> AI CCTV 기반 지하철 플랫폼 혼잡도 분석 서비스
+- 기술 : Jetson, TensorRT, YOLOv8, MQTT, Kotlin
 
-> 'Riffle Effect' 모작 | 2024.05.-2024.07
-- 프로젝트 기술 : C++·DirectX9
+---
 
-> 'Maplestory, Zero' 모작 | 2024.03.-2024.04
-- 프로젝트 기술 : C++·WinAPI
-
-<br>
-
-### ZionNetwork R&D Intern | 2022.06. - 2022.08.
-
-> 'HAIO', 중환자실 인공호흡기 VR 교육 시뮬레이터 | 2022.07.
-- 프로젝트 기술 : 데스크리서치·필드리서치·시나리오·펑션트리
+#### ZionNetwork / 'HAIO ICU Ventilator Simulator' | 2022.07.
+> 신속성과 정확성을 요구하는 중환자실 인공호흡기 연습을 위한 VR 시뮬레이터 프로그램
+- 기술 : 데스크리서치, 필드리서치, 시나리오, 펑션트리
 
 ---
 
 ## 📖 Education
 
-### School
+#### Academic Credit Bank System, Korea | 2026-2027
+- B.S. in Computer Engineering
 
-> Ewha Womans University, Korea (GPA 96.4) | 2019.03.-2025.08
-- 트랙 : 콘텐츠서비스&기획·UX기획&디자인
-- UX교과목 : 게임학의이해·콘텐츠아키텍처링·콘텐츠프로토타이핑·인지심리학·사용자연구·UX디자인·콘텐츠시스템프로젝트
-- UI교과목 : 디자인리서치·디지털스토리텔링·환경색채디자인·정보인터렉션디자인·머테리얼플레이·UX디자인졸업연구
-- 소통활동 : 학생회3회·동아리운영진1회·게임유튜버5년
+---
 
-> Academic Credit Bank System, Korea | 2026.10.-2027.03.
-- 전공 : 컴퓨터공학사
+#### Ewha Womans University, Korea | 2019-2025
+- B.S. in Content Convergence (GPA: 4.21/4.5)
+- B.A. in Design (GPA: 4.05/4.5)
+- [콘텐츠서비스&기획] 트랙, [UX기획&디자인] 트랙
+- Exchange Program : Nanyang Technological University, Singapore (2020.1)
+- Graduated with Honors
 
-> Hangaram Highschool, Korea (Rank 2.96) | 2015.03.-2018.02.
-- 심화빈 : 고급생명·고급영어 이수
-- 수상 : 졸업우수상 
+---
 
-> St.Francis College, Brazil | 2009.08.-2014.02.
-- 심화반 : 수학심화반·과학심화반 이수
+#### Hangaram Highschool, Korea | 2015-2018
+- [고급생명] 심화반, [고급영어] 심화반
+- Graduated with Honors
 
+---
 
-### Academy
+#### St.Francis College, Brazil | 2009-2014
+- [Maths Extended] 심화반, [Science Extended] 심화반
 
-> Samsung SW·AI Academy (1600h) | 2025.07. - 2026.05.
-- '데이오리', 
-- '수확행', AI 자율주행 로봇 기반 무인 농작물 케어·수확 서비스 | 자율주행 로봇 트랙
-- '뚫어', AI CCTV 기반 지하철 플랫폼 혼잡도 분석 서비스 | AIoT 트랙
-- 'Mr.PC Picker', AI PC 사양 추천 서비스 | Web 트랙
+---
 
+## ✒️ Abilities
 
+- <strong>2027 예정</strong>ㅣ서비스경험디자인기사
+- <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
+- <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
+- <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
 
-> Jusin Game Academy (280h) | 2024.01. - 2024.08.
+---
 
+- <strong>2026.12.18.</strong>ㅣ정보처리기사
+- <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
+- <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
+- <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
+- <strong>2025.03.01.</strong>ㅣAICE Basic
+- <strong>2025.02.02.</strong>ㅣPCCE Lv3 (C++)
+- <strong>2022.08.27.</strong>ㅣMOS Master (Word,Excel,Powerpoint,Access)
 
-> '수확행', AI 자율주행 로봇 기반 무인 농작물 케어·수확 서비스 | 2026.03.-2026.04.
-- 자율주행 로봇 트랙 이수
-- 프로젝트 기술: ROS 2·Gazebo·FastAPI·PostgreSQL·React
+---
 
-> '뚫어', AI CCTV 기반 지하철 플랫폼 혼잡도 분석 서비스 | 2026.01.-2026.02.
-- AIoT 트랙 이수
-- SSAFY 공통프로젝트 우수상 (서울 2반 3위)
-- 프로젝트 기술: Jetson·TensorRT·YOLOv8·MQTT·Kotlin
-
-<br>
+- <strong>2027 예정</strong>ㅣ한자급수자격검정 2급
+- <strong>2024.11.30.</strong>ㅣOPIc English IH
+- <strong>2024.11.24.</strong>ㅣTOEIC (950/990)
+- <strong>2024.11.16.</strong>ㅣTOEIC Speaking AL (170/200)
+- <strong>2022.01.13.</strong>ㅣJLPT N2 (145/180)
+- <strong>2019.08.03.</strong>ㅣTOEFL (107/120)
