@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills I Have?
 
 #### UX Tech
 - <strong>Prototype</strong> : Figma, AdobeXD, Protopie
@@ -32,38 +32,7 @@
 
 ---
 
-## ⏱️ Timeline
-
-#### St.Francis College, Brazil | 2009-2014
-실험 위주로 진행되는 과학에 재미를 느껴, 선생님을 본받아 [생명과학선생님] 이 되고 싶었습니다.
-
-#### Hangaram Highschool, Korea / Rank 2.96 | 2015-2018
-생명과학에 몰두하던 중, 동물원 윤리에 대한 책에 감명받아 [가상현실 동물원] 을 만들고 싶었습니다.
-
-#### Ewha Womans University, Korea / GPA 96.4 | 2019-2025 
-코로나를 겪으며 가상현실 중 인디게임에 눈을 뜨게 되어 직접 [나만의 게임] 을 만들고 싶어졌습니다.
-
-#### ZionNetwork R&D / Intern | 2022
-[가상 인공호흡기 시뮬레이터]의 시나리오·펑션트리 제작 및 Unity 게임 기획·모델링·개발 교육을 하며 메타버스 개발 과정을 익혔습니다.
-
-#### Smilegate Online GameJam / Art Director | 2022
-직접 제작한 게임 [물멍키트] 를 출시하였지만, 코딩 지식 부족으로 더 나은 '플레이 경험'을 주지 못하여 아쉬웠습니다.
-
-#### Jusin Game Academy / 280h | 2024
-기초 C++ 부터 게임 프로그래밍 실력을 쌓으며 [메이플스토리-제로] 와 [리플이펙트] 모작을 진행했습니다.
-
-#### Nexon Korea Media-Connected / Full-Time | 2025
-그리던 직장을 위해 유튜브활동과 홍보서포터즈를 하였지만, <br>아르바이트와 정규직 면접을 통해 저는 '게임'이 아닌 '제작'을 좋아했음을 깨달았습니다.<br>인턴 경험을 접목하여 [의료 서비스] 를 개발하고자 하였습니다
-
-#### Samsung SW·AI Academy / 1600h | 2025-2026
-AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 관심을 갖게 되었습니다
-
-#### EndoRobotics R&D / UX Engineer | 2026-Present
-내시경 로봇 제품을 중심으로 전임상실험, 사용적합성 테스트와 성능시험보고서 작성을 진행하고 있습니다
-
----
-
-## 🎯 Main Projects
+## 🎯 Projects I Contributed?
 
 #### EndoRobotics / 'EndoCubot ERCP Simulator' | 2026.07.-Present
 - 소개 : 방사선 피폭 없이 ERCP 시술의 측시경 및 가이드와이어 사용 합동 연습을 위한 모듈
@@ -83,7 +52,7 @@ AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 �
 
 ---
 
-## 📖 Education
+## 📖 My Core Subjects?
 
 #### Academic Credit Bank System, Korea | 2026-2027
 - B.S. in Computer Engineering
@@ -102,31 +71,61 @@ AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 �
 #### St.Francis College, Brazil | 2009-2014
 - [Maths Extended] 심화반, [Science Extended] 심화반
 
-<br>
+---
+
+## ✒️ Any Certificates?
+
+#### UX Certificate
+- <strong>서비스경험디자인기사</strong> | 2027 예정
+- <strong>컴퓨터그래픽기능사</strong> | 2025.04.18.
+- <strong>웹디자인개발기능사(필기)</strong> | 2025.01.24.
+- <strong>Adobe Specialist</strong> | 2020.07.18.
+
+#### Programming Certificate
+- <strong>정보처리기사</strong> | 2026.12.18.
+- <strong>SQL개발자(SQLD)</strong> | 2026.03.27.
+- <strong>리눅스마스터2급</strong> | 2026.01.02.
+- <strong>데이터분석준전문가(ADsP)</strong> | 2025.03.21.
+- <strong>AICE Basic</strong> | 2025.03.01.
+- <strong>PCCE Lv3 (C++)</strong> | 2025.02.02.
+- <strong>MOS Master</strong> | 2022.08.27.
+
+#### Foreign Language Certificate
+- <strong>한자급수자격검정 2급</strong> | 2027 예정
+- <strong>OPIc English IH</strong> | 2024.11.30.
+- <strong>TOEIC (950/990)</strong> | 2024.11.24.
+- <strong>TOEIC Speaking AL (170/200)</strong> | 2024.11.16.
+- <strong>JLPT N2 (145/180)</strong> | 2022.01.13.
+- <strong>TOEFL (107/120)</strong> | 2019.08.03.
 
 ---
 
-## ✒️ Abilities
+## ⏱️ How Did I Get Here?
 
-#### UX Certificate
-- <strong>2027 예정</strong>ㅣ서비스경험디자인기사
-- <strong>2025.04.18.</strong>ㅣ컴퓨터그래픽기능사
-- <strong>2025.01.24.</strong>ㅣ웹디자인개발기능사(필기)
-- <strong>2020.07.18.</strong>ㅣACA Specialist (Illustrator,Photoshop,Indesign)
+#### St.Francis College, Brazil | 2009-2014
+    실험 위주로 진행되는 과학에 재미를 느껴, 선생님을 본받아 [생명과학선생님] 이 되고 싶었습니다.
 
-#### Programming Certificate
-- <strong>2026.12.18.</strong>ㅣ정보처리기사
-- <strong>2026.03.27.</strong>ㅣSQL개발자(SQLD)
-- <strong>2026.01.02.</strong>ㅣ리눅스마스터 2급
-- <strong>2025.03.21.</strong>ㅣ데이터분석준전문가(ADsP)
-- <strong>2025.03.01.</strong>ㅣAICE Basic
-- <strong>2025.02.02.</strong>ㅣPCCE Lv3 (C++)
-- <strong>2022.08.27.</strong>ㅣMOS Master (Word,Excel,Powerpoint,Access)
+#### Hangaram Highschool, Korea / Rank 2.96 | 2015-2018
+    생명과학에 몰두하던 중, 동물원 윤리에 대한 책에 감명받아 [가상현실 동물원] 을 만들고 싶었습니다.
 
-#### Foreign Language Certificate
-- <strong>2027 예정</strong>ㅣ한자급수자격검정 2급
-- <strong>2024.11.30.</strong>ㅣOPIc English IH
-- <strong>2024.11.24.</strong>ㅣTOEIC (950/990)
-- <strong>2024.11.16.</strong>ㅣTOEIC Speaking AL (170/200)
-- <strong>2022.01.13.</strong>ㅣJLPT N2 (145/180)
-- <strong>2019.08.03.</strong>ㅣTOEFL (107/120)
+#### Ewha Womans University, Korea / GPA 96.4 | 2019-2025 
+    코로나를 겪으며 가상현실 중 인디게임에 눈을 뜨게 되어 직접 [나만의 게임] 을 만들고 싶어졌습니다.
+
+#### ZionNetwork R&D / Intern | 2022
+    [가상 인공호흡기 시뮬레이터]의 시나리오·펑션트리 제작 및 Unity 게임 기획·모델링·개발 교육을 하며 메타버스 개발 과정을 익혔습니다.
+
+#### Smilegate Online GameJam / Art Director | 2022
+    직접 제작한 게임 [물멍키트] 를 출시하였지만, 코딩 지식 부족으로 더 나은 '플레이 경험'을 주지 못하여 아쉬웠습니다.
+
+#### Jusin Game Academy / 280h | 2024
+    기초 C++ 부터 게임 프로그래밍 실력을 쌓으며 [메이플스토리-제로] 와 [리플이펙트] 모작을 진행했습니다.
+
+#### Nexon Korea Media-Connected / Full-Time | 2025
+    그리던 직장을 위해 유튜브 활동과 홍보 서포터즈를 하였지만, <br>아르바이트와 정규직 면접을 통해 저는 '게임'이 아닌 '제작'을 좋아했음을 깨달았습니다
+    인턴 경험을 접목하여 [의료 서비스] 를 개발하고자 하였습니다
+
+#### Samsung SW·AI Academy / 1600h | 2025-2026
+    AIoT 트랙과 자율주행 로봇 트랙을 이수하며, [의료 로봇] 에 관심을 갖게 되었습니다
+
+#### EndoRobotics R&D / UX Engineer | 2026-Present
+    내시경 로봇 제품을 중심으로 전임상실험, 사용적합성 테스트와 성능시험보고서 작성을 진행하고 있습니다
